@@ -9,10 +9,10 @@ title = "Camaleoa Produções"
   isoCode = "pt-br"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  copyright = "© 2026 Claudio de Moraes"
+  copyright = "© 2026 Camaleoa Produções & Viagens LTDA"
 
 # [params.author]
 #   name = "Your name here"

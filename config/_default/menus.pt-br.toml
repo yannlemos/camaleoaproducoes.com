@@ -12,21 +12,25 @@
 
 [[main]]
  name = "Promoções"
+ pre = "tag"
  pageRef = "promoções"
  weight = 1
 
 [[main]]
  name = "Histórias"
+ pre = "image"
  pageRef = "histórias"
  weight = 2
 
 [[main]]
  name = "Contato"
+ pre = "phone"
  pageRef = "contato"
  weight = 3
 
 [[main]]
  name = "Sobre"
+ pre = "comment"
  pageRef = "sobre"
  weight = 4
 

@@ -1,0 +1,11 @@
+.logo.max-h-20 {
+    max-height: 15rem !important;
+}
+
+.logo.max-w-20 {
+    max-width: 15rem !important;
+}
+
+.main-menu nav a span {
+    font-weight: 500 !important;
+}

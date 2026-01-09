@@ -1,6 +1,6 @@
 colorScheme = "avocado"
 defaultAppearance = "light"
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 enableA11y = false
 enableSearch = false
 enableCodeCopy = false
@@ -8,7 +8,7 @@ enableStructuredBreadcrumbs = false
 replyByEmail = false
 disableImageOptimization = false
 disableImageOptimizationMD = false
-disableTextInHeader = false
+disableTextInHeader = true
 hotlinkFeatureImage = false
 fingerprintAlgorithm = "sha512"
 giteaDefaultServer = "https://git.fsfe.org"
@@ -23,35 +23,37 @@ rssnext = { }
 advertisement = { }
 
 [header]
-layout = "background"
+layout = "fixed-fill-blur"
 
 [footer]
 showMenu = true
 showCopyright = true
 showThemeAttribution = false
-showAppearanceSwitcher = true
+showAppearanceSwitcher = false
 showScrollToTop = true
 
 [homepage]
 layout = "card"
 showRecent = true
-showRecentItems = 5
-showMoreLink = false
-showMoreLinkDest = "/posts/"
-cardView = false
+showRecentItems = 3
+showMoreLink = true
+showMoreLinkDest = "/histórias/"
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
 homepageImage = "hero.jpg"
 
 [article]
-showDate = false
+showDate = true
 showViews = false
 showLikes = false
-showDateOnlyInArticle = true
+showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = false
+showSummary = true
+showHero = true
+heroStyle = "big"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
@@ -63,19 +65,19 @@ showHeadingAnchors = true
 showPagination = false
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
+showTableOfContents = true
 showTaxonomies = false
 showCategoryOnly = false
-showAuthorsBadges = false
+showAuthorsBadges = true
 showWordCount = true
-showZenMode = false
+showZenMode = true
 
 [list]
 showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showViews = false
 showLikes = false
 showTableOfContents = false

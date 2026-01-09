@@ -3,12 +3,108 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/contato/</loc>
+    <loc>//localhost:1313/hist%C3%B3rias/as-explos%C3%B5es/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/hezbollah-p1/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/hezbollah-p2/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/hezbollah-p3/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/hist%C3%B3rias/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/na-linha-da-morte/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/ca%C3%A7adores-de-mel-nepal-p1/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/ca%C3%A7adores-de-mel-nepal-p2/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/pir%C3%A2mide-carstenz/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/puro-amor/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/everest/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p1/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p2/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p3/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/zona-de-impacto/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/hist%C3%B3rias/rio-zambeze/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/contato/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -19,11 +115,6 @@
   </url>
   <url>
     <loc>//localhost:1313/sobre/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
