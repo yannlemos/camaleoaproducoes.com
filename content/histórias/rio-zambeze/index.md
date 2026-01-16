@@ -1,6 +1,6 @@
 ---
 title: "Um Rio Nervoso: Zambeze"
-date: 2022-01-25
+date: 2024-03-17
 tags: ["welcome", "new", "about", "first"]
 summary: "Planeta Extremo no rio mais perigoso do Planeta!"
 weight: 2

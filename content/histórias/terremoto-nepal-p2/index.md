@@ -1,6 +1,6 @@
 ---
 title: "Terremoto no Nepal - Parte 2"
-date: 2022-01-25
+date: 2019-11-01
 tags: ["welcome", "new", "about", "first"]
 description: "Guide to Chart.js usage in Blowfish"
 summary: "Blowfish includes Chart.js for powerful charts and data visualisations."

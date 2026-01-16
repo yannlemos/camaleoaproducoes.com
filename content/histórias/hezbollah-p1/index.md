@@ -1,9 +1,9 @@
 ---
 title: "Hezbollah - Parte 1"
-date: 2022-01-25
+date: 2016-11-11
 tags: ["welcome", "new", "about", "first"]
 description: "Guide to Chart.js usage in Blowfish"
-summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
+summary: "Uma entrevista inesquecível."
 ---
 # Hezbollah parte 1 — Camaleoa
 Uma das tarefas mais árduas na produção de conteúdo é viabilizar uma ideia. Mas, e quando essa ideia muda bruscamente durante a produção? E quando isso acontece no oriente médio? Mas a pauta e o roteiro não eram do esporte? As surpresas acontecem e temos que ser camaleões para nos adaptar ao foco da pauta quando somos surpreendidos pelos fatos.

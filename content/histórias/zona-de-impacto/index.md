@@ -1,6 +1,6 @@
 ---
 title: "Zona de Oportunidades"
-date: 2022-01-25
+date: 2024-03-21
 tags: ["welcome", "new", "about", "first"]
 description: "Guide to Chart.js usage in Blowfish"
 summary: "Os bastidores do programa zona de impacto nos anos de 2004 a 2009."

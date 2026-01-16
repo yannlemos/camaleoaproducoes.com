@@ -1,9 +1,9 @@
 ---
 title: "As Explosões"
-date: 2022-01-25
+date: 2019-09-25
 tags: ["welcome", "new", "about", "first"]
 description: "Guide to Chart.js usage in Blowfish"
-summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
+summary: "Um dia intenso de telejornalismo."
 weight: 99
 ---
 # https://camaleoaproducoes/historias/asexplosoes — Camaleoa
