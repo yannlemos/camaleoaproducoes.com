@@ -2,14 +2,19 @@
 title: "Viaje e Sonhe!"
 description: "This is a demo of adding content to the homepage."
 ---
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. 
+{{< lead >}}
+Meu nome é Claudio de Moraes. 
+Jornalista, produtor, pai e aventureiro.
+{{< /lead >}}
 
-Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+**Passei 40 anos viajando** a trabalho e férias ao redor do mundo. Fui responsável durante 5 anos (2010 a 2015) pela **produção do Planeta Extremo, programa da Globo**, conhecendo lugares como o Pólo Sul, Pólo Norte, Deserto do Saara, Vietnã, China, Bahamas, África—muitos destinos! 
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. 
+Essa experiência foi o meu mestrado em **responsabilidade e segurança com a vida alheia**. 
 
-Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Hoje, com a Camaloa, busco unir toda essa experiência para organizar a **sua viagem dos sonhos**. 
+
+E aí. Bora viajar?
 
 {{< button href="/contato/" >}}
-Clique aqui para viajar!
+Sim!
 {{< /button >}}

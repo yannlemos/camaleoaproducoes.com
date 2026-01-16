@@ -23,6 +23,12 @@
  weight = 2
 
 [[main]]
+ name = "Passaporte"
+ pre = "circle-info"
+ pageRef = "passaporte"
+ weight = 2
+
+[[main]]
  name = "Contato"
  pre = "phone"
  pageRef = "contato"
