@@ -2,6 +2,8 @@
 title: "Terremoto no Nepal - Parte 3"
 date: 2022-01-25
 ---
+![](1.png "Desabrigados em Katmandu.")
+
 Depois de 48h do mais catastrófico terremoto do Nepal nos últimos 80 anos, fincamos nossa bandeira no lobby do hotel! Montamos ali todas as estratégias de logística, de produção e de entradas ao vivo. Makoto foi muito importante nesse momento. Nosso mestre já escalou montanhas sem cordas! Já foi instrutor de operações de resgate para o Corpo de Bombeiros, em São Paulo, e nos passava importantes informações sobre segurança naquela situação. Imaginem! Passar o aniversário no meio de um terremoto? Pelo menos ficará para sempre na nossa lembrança o aniversário do mestre Makoto Ishibi.
 
 Tudo era decidido ali. Inclusive nosso futuro. Quando tudo vai acabar? quando irão parar as réplicas? Quando voltaremos para casa? Eram muitas perguntas sem respostas por um simples motivo. Os olhos do Mundo estavam voltados para o Nepal. Foi o terremoto mais violento do século 21, que mal começou! Depois da primeira noite mal dormida a missão era colocar o que tínhamos em mãos para funcionar os equipamentos da Tv estatal Nepalesa. Tínhamos 2 equipes em ação. Ao final de cada dia, nos reuníamos na "nossa redação”! Discutíamos o dia seguinte e as entradas ao vivo dentro do Jornal Nacional, que estrearia um novo formato. A responsabilidade só aumentava. Esse formato é utilizado até hoje! Interatividade entre repórter e âncora, como se estivem no mesmo ambiente com a ajuda do telão. Inclusive o olhar deveria ser direcionado para onde estavam Bonner ou a Renata.
@@ -14,6 +16,10 @@ Mas a grande surpresa do dia foi quando vi pela primeira vez a estrutura na qual
 
 Pasmem! Sete segundo depois de fazermos todas as entradas ao vivo, o gerador desligou! Um dos fios desconectou e deixou a UM(unidade móvel), sem energia. Olhamos incrédulos para o gerador, mas a missão foi cumprida! Comemoramos todos abraçados por mais essa conquista. Não cabia felicidade dentro de nós. A satisfação do dever cumprido naquelas circunstâncias nos encheu de orgulho! Sim, a equipe! Tudo é uma maravilhosa engrenagem que deu certo apesar de todas as dificuldades que encontramos, vencemos mais uma vez! Em televisão nada se faz sozinho!
 
+![](2.png "Famílias dormem no estacionamento da TV Estatal Nepalesa.")
+
 Durante 6 dias fizemos uma cobertura, no mínimo espetacular! Mostramos para todo o Brasil as mazelas de um terremoto, in locco! Levamos para esse campo de “batalha”, as experiências de cada um, na participação de grandes eventos pela Tv Globo, realizando um trabalho inimaginável e incansável. Tentamos o possível e alcançamos o impossível diante de vários obstáculos. Todos nos sentimos muito felizes com o desfecho do trabalho. Missão dada, é missão cumprida! Ganhamos no ano seguinte o prêmio interno da Tv Globo como a reportagem internacional mais importante do JN daquele ano.
+
+![](3.png "Nosso Prêmio Globo de Jornalismo e Esporte 2015.")
 
 Não! Ainda não acabou! Não era o fim! Tínhamos um destino inicial. Nossos planos eram outros, lembram? Os Caçadores de mel do Nepal. Depois de tudo que aconteceu nos deparamos com um problema interno. Voltar ou não voltar para o Brasil? Eis a questão! Conto depois como foi a nossa decisão de voltar ou não. Decidimos no voto! Na democracia! Quem viu, viu! Quem não viu saberá o que aconteceu nessa votação.
