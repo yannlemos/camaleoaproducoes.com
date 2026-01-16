@@ -14,15 +14,15 @@ title = "Camaleoa Produções"
   # description = "My awesome website"
   copyright = "© 2026 Camaleoa Produções & Viagens LTDA"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
+[params.author]
+  name = "Claudio de Moraes"
+  email = "claudio@camaleoaproducoes.com"
+  image = "profile.jpg"
 #   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+  headline = "Viaje e Sonhe!"
+  bio = "Jornalista, Produtor, Pai & Aventureiro"
+  links = [
+    { email = "claudio@camaleoaproducoes.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -39,13 +39,13 @@ title = "Camaleoa Produções"
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
+    { instagram = "https://www.instagram.com/camaleoa_producoes/" },
 #     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
 #     { keyoxide = "https://keyoxide.org/URI" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://www.linkedin.com/in/claudioextremo/" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { matrix = "https://matrix.to/#/URI" },
 #     { medium = "https://medium.com/username" },
@@ -69,8 +69,8 @@ title = "Camaleoa Produções"
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
-#     { whatsapp = "https://wa.me/phone-number" },
+    { whatsapp = "https://wa.me/5521999274750" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]

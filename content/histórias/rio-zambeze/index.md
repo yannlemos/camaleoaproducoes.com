@@ -2,8 +2,7 @@
 title: "Um Rio Nervoso: Zambeze"
 date: 2022-01-25
 tags: ["welcome", "new", "about", "first"]
-description: "Guide to Chart.js usage in Blowfish"
-summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
+summary: "Planeta Extremo no rio mais perigoso do Planeta!"
 weight: 2
 ---
 # Planeta Extremo num dos rios mais perigosos da Terra! — Camaleoa

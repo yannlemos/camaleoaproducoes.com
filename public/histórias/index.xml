@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>histórias on Camaleoa Produções</title>
+    <title>Histórias on Camaleoa Produções</title>
     <link>//localhost:1313/hist%C3%B3rias/</link>
-    <description>Recent content in histórias on Camaleoa Produções</description>
+    <description>Recent content in Histórias on Camaleoa Produções</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <managingEditor>claudio@camaleoaproducoes.com (Claudio de Moraes)</managingEditor>
+    <webMaster>claudio@camaleoaproducoes.com (Claudio de Moraes)</webMaster>
     <copyright>© 2026 Camaleoa Produções &amp; Viagens LTDA</copyright>
-    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/hist%C3%B3rias/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/hist%C3%B3rias/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Qual é o seu Everest?</title>
       <link>//localhost:1313/hist%C3%B3rias/everest/</link>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/everest/</guid>
-      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      <description>Bastidores de uma escalada ao Monte Everest.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hist%C3%B3rias/everest/featured.webp" />
     </item>
     
@@ -23,9 +25,9 @@
       <title>Um Rio Nervoso: Zambeze</title>
       <link>//localhost:1313/hist%C3%B3rias/rio-zambeze/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/rio-zambeze/</guid>
-      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      <description>Planeta Extremo no rio mais perigoso do Planeta!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hist%C3%B3rias/rio-zambeze/featured.png" />
     </item>
     
@@ -33,7 +35,7 @@
       <title>Pirâmide Carstensz</title>
       <link>//localhost:1313/hist%C3%B3rias/pir%C3%A2mide-carstenz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/pir%C3%A2mide-carstenz/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hist%C3%B3rias/pir%C3%A2mide-carstenz/featured.webp" />
@@ -43,87 +45,87 @@
       <title>As Explosões</title>
       <link>//localhost:1313/hist%C3%B3rias/as-explos%C3%B5es/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/as-explos%C3%B5es/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hist%C3%B3rias/as-explos%C3%B5es/featured.webp" />
     </item>
     
     <item>
       <title>Hezbollah - Parte 1</title>
       <link>//localhost:1313/hist%C3%B3rias/hezbollah-p1/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/hezbollah-p1/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hist%C3%B3rias/hezbollah-p1/featured.webp" />
     </item>
     
     <item>
       <title>Hezbollah - Parte 2</title>
       <link>//localhost:1313/hist%C3%B3rias/hezbollah-p2/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/hezbollah-p2/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hist%C3%B3rias/hezbollah-p2/featured.webp" />
     </item>
     
     <item>
       <title>Hezbollah - Parte 3</title>
       <link>//localhost:1313/hist%C3%B3rias/hezbollah-p3/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/hezbollah-p3/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hist%C3%B3rias/hezbollah-p3/featured.webp" />
     </item>
     
     <item>
       <title>Na Linha Da Morte</title>
       <link>//localhost:1313/hist%C3%B3rias/na-linha-da-morte/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/na-linha-da-morte/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hist%C3%B3rias/na-linha-da-morte/featured.webp" />
     </item>
     
     <item>
       <title>Os Caçadores de Mel do Nepal - Parte 1</title>
       <link>//localhost:1313/hist%C3%B3rias/ca%C3%A7adores-de-mel-nepal-p1/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/ca%C3%A7adores-de-mel-nepal-p1/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hist%C3%B3rias/ca%C3%A7adores-de-mel-nepal-p1/featured.png" />
     </item>
     
     <item>
       <title>Os Caçadores de Mel do Nepal - Parte 2</title>
       <link>//localhost:1313/hist%C3%B3rias/ca%C3%A7adores-de-mel-nepal-p2/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/ca%C3%A7adores-de-mel-nepal-p2/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hist%C3%B3rias/ca%C3%A7adores-de-mel-nepal-p2/featured.png" />
     </item>
     
     <item>
       <title>Puro Amor!</title>
       <link>//localhost:1313/hist%C3%B3rias/puro-amor/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/puro-amor/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hist%C3%B3rias/puro-amor/featured.png" />
     </item>
     
     <item>
       <title>Terremoto no Nepal - Parte 1</title>
       <link>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p1/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p1/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
       
@@ -133,7 +135,7 @@
       <title>Terremoto no Nepal - Parte 2</title>
       <link>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p2/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p2/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
       
@@ -143,7 +145,7 @@
       <title>Título</title>
       <link>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p3/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p3/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
       
@@ -153,9 +155,9 @@
       <title>Zona de Oportunidades</title>
       <link>//localhost:1313/hist%C3%B3rias/zona-de-impacto/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
       <guid>//localhost:1313/hist%C3%B3rias/zona-de-impacto/</guid>
-      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      <description>Os bastidores do programa zona de impacto nos anos de 2004 a 2009.</description>
       
     </item>
     

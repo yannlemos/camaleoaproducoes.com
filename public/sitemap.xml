@@ -4,7 +4,7 @@
 
   <url>
     <loc>//localhost:1313/hist%C3%B3rias/everest/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -20,20 +20,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>//localhost:1313/hist%C3%B3rias/as-explos%C3%B5es/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/hist%C3%B3rias/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/hist%C3%B3rias/as-explos%C3%B5es/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

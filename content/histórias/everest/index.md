@@ -1,9 +1,9 @@
 ---
 title: "Qual é o seu Everest?"
-date: 2025-01-25
+date: 2024-04-11
 tags: ["história"]
 description: "Guide to Chart.js usage in Blowfish"
-summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
+summary: "Bastidores de uma escalada ao Monte Everest."
 weight: 1
 ---
 # QUAL É O SEU EVEREST? — Camaleoa

@@ -4,16 +4,21 @@ description: "Guide to Chart.js usage in Blowfish"
 summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
 showDate: false
 showZenMode: false
+showReadingTime: false
+showWordCount: false
 ---
-# contato — Camaleoa
-### 5 DICAS IMPORTANTES PARA SUA VIAGEM!!!
+{{< lead >}}
+Não tem mistério! Só me mandar uma mensagem no whatsapp ou no email.
+{{< /lead >}}
 
-Fale conosco
-------------
+Eu acompanho toda a sua viagem, desde o planejamento, até a ida, incluindo os dias em que você estiver em seu destino. Aqui na Camaleoa é suporte do momento que você decide viajar até o momento em que você está em casa!
 
-Para que possamos começar a planejar sua próxima viagem inesquecível, basta ligar para o seguinte número:
+# claudio@camaleoaproducoes.com
 
-+55 21 99927-4750
------------------
+{{< figure
+    src="whatsapp.png"
+    alt="Abstract purple artwork"
+    nozoom="true"
+    href="https://wa.me/5521999274750" 
+    >}}
 
-Caso queira entrar em contato por email, basta preencher o formulário abaixo:
