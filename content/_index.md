@@ -13,8 +13,6 @@ Essa experiência foi o meu mestrado em **responsabilidade e segurança com a vi
 
 Hoje, com a Camaloa, busco unir toda essa experiência para organizar a **sua viagem dos sonhos**. 
 
-E aí. Bora viajar?
-
 {{< button href="/contato/" >}}
-Sim!
+Quero viajar!
 {{< /button >}}

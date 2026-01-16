@@ -10,6 +10,16 @@
     <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Um Rio Nervoso: Zambeze</title>
+      <link>//localhost:1313/hist%C3%B3rias/rio-zambeze/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hist%C3%B3rias/rio-zambeze/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
       <title>As Explosões</title>
       <link>//localhost:1313/hist%C3%B3rias/as-explos%C3%B5es/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
@@ -100,16 +110,6 @@
     </item>
     
     <item>
-      <title>Qual é o seu Everest?</title>
-      <link>//localhost:1313/hist%C3%B3rias/everest/</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/hist%C3%B3rias/everest/</guid>
-      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hist%C3%B3rias/everest/featured.webp" />
-    </item>
-    
-    <item>
       <title>Terremoto no Nepal - Parte 1</title>
       <link>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p1/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
@@ -135,16 +135,6 @@
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p3/</guid>
-      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
-      
-    </item>
-    
-    <item>
-      <title>Um Rio Nervoso: Zambeze</title>
-      <link>//localhost:1313/hist%C3%B3rias/rio-zambeze/</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/hist%C3%B3rias/rio-zambeze/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
       
     </item>

@@ -4,6 +4,7 @@ date: 2022-01-25
 tags: ["welcome", "new", "about", "first"]
 description: "Guide to Chart.js usage in Blowfish"
 summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
+weight: 2
 ---
 # Planeta Extremo num dos rios mais perigosos da Terra! — Camaleoa
 Um rio nervoso! ZAMBEZE
