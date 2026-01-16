@@ -1,6 +1,6 @@
 ---
-title: "Viaje e Sonhe!"
-description: "This is a demo of adding content to the homepage."
+title: "Camaleoa Produções"
+description: "Viaje e sonhe!"
 ---
 {{< lead >}}
 Meu nome é Claudio de Moraes. 
