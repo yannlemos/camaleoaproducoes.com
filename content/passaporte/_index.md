@@ -18,7 +18,7 @@ Vamos lá, para começar, separe todos os documentos exigidos para tirar o passa
 
 Documentos em mãos? Ótimo! O próximo passo é acessar o [site da Polícia Federal](https://servicos.dpf.gov.br/sinpa/inicializacaoSolicitacao.do?dispatch=inicializarSolicitacaoPassaporte&UF=DF&CD_MUNICIPIO=9701&CD_LOTACAO=274) e preencher o formulário. Mas pode ficar tranquilo, pois o formulário é bem simples e rápido. Assim que terminar de preenchê-lo, um protocolo com a sua solicitação será gerado, bem como um boleto de Guia de Recolhimento da União (GRU). Este boleto nada mais é do que a taxa que todo mundo precisa pagar quando vai tirar o passaporte.
 
-## 3\. Pague o boleto da GRU**
+## 3\. Pague o boleto da GRU
 
 Atualmente no valor de R$275,25, o boleto de Guia de Recolhimento da União pode ser pago em casas lotéricas, bancos ou internet. Ou seja: escolha a forma que for mais fácil pra você. Depois de pagar esta taxa e obter a confirmação do pagamento você pode proceder à etapa seguinte: fazer o agendamento do atendimento pelo site da Polícia Federal. É só [clicar aqui](https://servicos.dpf.gov.br/sinpa/paginaInicialAgendamento.do). Você consegue agendar uma data utilizando seu CPF, número de protocolo e data de nascimento. Após inserir todos esses dados, o sistema indicará os postos disponíveis para atendimento, assim como algumas opções de horário. Selecione o que for mais conveniente pra você.
 

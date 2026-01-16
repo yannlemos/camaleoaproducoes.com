@@ -1,0 +1,46 @@
+<div class="relative pt-16 pb-32">
+  <div aria-hidden="true" class="absolute inset-x-0 top-0 h-48 bg-gradient-to-b"></div>
+  <div class="relative">
+    <div class="lg:mx-auto lg:grid lg:max-w-7xl lg:grid-flow-col-dense lg:grid-cols-2 lg:gap-24 lg:px-8">
+      <div class="mx-auto max-w-xl px-4 sm:px-6 lg:mx-0 lg:max-w-none lg:py-16 lg:px-0">
+        <article class="max-w-full prose dark:prose-invert">
+          {{ with .Title }}
+            <header>
+              <h1>{{ . | emojify }}</h1>
+            </header>
+          {{ end }}
+          <section class="w-full">{{ .Content }}</section>
+        </article>
+      </div>
+      <div class="mt-6 sm:mt-16 lg:mt-0 mx-auto max-w-xl px-4 sm:px-6 lg:mx-0 lg:max-w-none lg:py-16 lg:px-0">
+        <div class="lg:relative lg:m-0 lg:px-0 w-full">
+          <!-- Gallery using Blowfish gallery structure -->
+          <div class="width-patch"></div>
+          <div id="homepage-gallery" class="gallery rounded-xl overflow-hidden">
+            {{ $images := slice "f1.webp" "f2.webp" "f3.webp" "f4.webp" "f5.webp" "f6.webp" "f7.webp" "f8.webp" "f9.webp" "f10.webp" "f11.webp" "f12.webp" }}
+            
+            {{ range $images }}
+              {{ $imagePath := . }}
+              {{ $finalPath := printf "/%s" $imagePath }}
+              
+              {{/* Try to get from page resources first */}}
+              {{ with $.Page.Resources.GetMatch $imagePath }}
+                {{ $finalPath = .RelPermalink }}
+              {{ else }}
+                {{/* Try to get from global resources */}}
+                {{ with resources.GetMatch $imagePath }}
+                  {{ $finalPath = .RelPermalink }}
+                {{ end }}
+              {{ end }}
+              
+              <img src="{{ $finalPath }}" class="grid-w33" alt="Galeria de viagens" />
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<section>
+  {{ partial "recent-articles/main.html" . }}
+</section>

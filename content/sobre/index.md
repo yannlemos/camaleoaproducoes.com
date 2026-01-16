@@ -39,6 +39,8 @@ Essa é a minha intenção. Levar pessoas comuns a lugares inimagináveis!
 ![Alt text](foto_cadastur.png "Cetificado da Cadastur")
 ![Alt text](foto_turismo_consciente.png "Selo Turismo Consciente RJ")
 
+## Depoimentos
+
 ## Parceiros
 {{< gallery >}}
   <img src="parceiro_bigbeat.png" class="grid-w33" />

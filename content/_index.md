@@ -11,7 +11,7 @@ Jornalista, produtor, pai e aventureiro.
 
 Essa experiência foi o meu mestrado em **responsabilidade e segurança com a vida alheia**. 
 
-Hoje, com a Camaloa, busco unir toda essa experiência para organizar a **sua viagem dos sonhos**. 
+Hoje, com a Camaloa, busco unir toda essa experiência para organizar a **sua viagem dos sonhos com um roteiro personalizado**.
 
 {{< button href="/contato/" >}}
 Quero viajar!
