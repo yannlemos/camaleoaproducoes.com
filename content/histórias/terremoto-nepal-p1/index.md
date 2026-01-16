@@ -1,11 +1,7 @@
 ---
 title: "Terremoto no Nepal - Parte 1"
 date: 2019-10-27
-tags: ["welcome", "new", "about", "first"]
-description: "Guide to Chart.js usage in Blowfish"
-summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
 ---
-# Terremoto no Nepal - Parte 1 — Camaleoa
 ![equipes de resgate do mundo inteiro ajudam a encontrar corpos nos escombros.](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/1569860939679-QF20V2MQL8DRSYOT8DP0/equipes+de+resgate)
 
 equipes de resgate do mundo inteiro ajudam a encontrar corpos nos escombros.

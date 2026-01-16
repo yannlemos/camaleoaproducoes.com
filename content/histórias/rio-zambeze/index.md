@@ -1,14 +1,7 @@
 ---
 title: "Um Rio Nervoso: Zambeze"
 date: 2024-03-17
-tags: ["welcome", "new", "about", "first"]
-summary: "Planeta Extremo no rio mais perigoso do Planeta!"
-weight: 2
 ---
-# Planeta Extremo num dos rios mais perigosos da Terra! — Camaleoa
-Um rio nervoso! ZAMBEZE
------------------------
-
 ![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/8235ce58-6bd6-40c8-b447-00e100e04069/IMG_3797.JPG)
 
 VITÓRIA FALLS, NA GARGANTA DO RIO ZAMBEZE.

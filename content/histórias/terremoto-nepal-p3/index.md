@@ -1,11 +1,7 @@
 ---
 title: "Terremoto no Nepal - Parte 3"
 date: 2022-01-25
-tags: ["welcome", "new", "about", "first"]
-description: "Guide to Chart.js usage in Blowfish"
-summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
 ---
-# Terremoto no Nepal - Parte 3 — Camaleoa
 Depois de 48h do mais catastrófico terremoto do Nepal nos últimos 80 anos, fincamos nossa bandeira no lobby do hotel! Montamos ali todas as estratégias de logística, de produção e de entradas ao vivo. Makoto foi muito importante nesse momento. Nosso mestre já escalou montanhas sem cordas! Já foi instrutor de operações de resgate para o Corpo de Bombeiros, em São Paulo, e nos passava importantes informações sobre segurança naquela situação. Imaginem! Passar o aniversário no meio de um terremoto? Pelo menos ficará para sempre na nossa lembrança o aniversário do mestre Makoto Ishibi.
 
 Tudo era decidido ali. Inclusive nosso futuro. Quando tudo vai acabar? quando irão parar as réplicas? Quando voltaremos para casa? Eram muitas perguntas sem respostas por um simples motivo. Os olhos do Mundo estavam voltados para o Nepal. Foi o terremoto mais violento do século 21, que mal começou! Depois da primeira noite mal dormida a missão era colocar o que tínhamos em mãos para funcionar os equipamentos da Tv estatal Nepalesa. Tínhamos 2 equipes em ação. Ao final de cada dia, nos reuníamos na "nossa redação”! Discutíamos o dia seguinte e as entradas ao vivo dentro do Jornal Nacional, que estrearia um novo formato. A responsabilidade só aumentava. Esse formato é utilizado até hoje! Interatividade entre repórter e âncora, como se estivem no mesmo ambiente com a ajuda do telão. Inclusive o olhar deveria ser direcionado para onde estavam Bonner ou a Renata.

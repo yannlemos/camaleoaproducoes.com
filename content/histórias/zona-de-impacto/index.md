@@ -1,11 +1,7 @@
 ---
 title: "Zona de Oportunidades"
 date: 2024-03-21
-tags: ["welcome", "new", "about", "first"]
-description: "Guide to Chart.js usage in Blowfish"
-summary: "Os bastidores do programa zona de impacto nos anos de 2004 a 2009."
 ---
-# ZONA DE OPORTUNIDADES!  — Camaleoa
 ![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/1385206d-7950-4c3f-9fc9-5b751e380ccd/Captura+de+Tela+2024-03-24+a%CC%80s+10.45.33.png)
 
 ZONA DE IMPACTO - SPORTV

@@ -1,11 +1,7 @@
 ---
 title: "Hezbollah - Parte 2"
 date: 2019-09-25
-tags: ["welcome", "new", "about", "first"]
-description: "Guide to Chart.js usage in Blowfish"
-summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
 ---
-# Hezbollah parte 2 — Camaleoa
 Quando o pelotão dos homens bomba desfila na frente de seu líder, Hassan Nasrallah, eles sempre se posicionam com as mãos na cintura. Essa conduta significa que eles estão prontos para matar e morrer pela causa. Basta que acionem os coletes recheados de explosivos para aniquilar o inimigo, Israel. Pela segunda vez estávamos diante de uma difícil verdade em tempo real. O ódio é o sentimento dominante no Oriente Médio.
 
         A volta para o Líbano não poderia começar melhor. No trecho Paris/Beirute ganhamos acesso a classe executiva da Air France e saboreamos com muitas risadas esse momento. Depois de mostrarmos para o Brasil o que era o Hezbollah, o foco agora era a entrevista com Hassan Nasrallah. O líder que fundou o partido e convocou os primeiros combatentes em 1982, depois da invasão de Israel em 1978. O grupo era formado por médicos, professores, estudantes e pessoas comuns com um único objetivo. Expulsar os israelenses do sul do Líbano. Vinte e três anos depois, três jornalistas brasileiros tentavam a façanha de conseguir uma entrevista exclusiva com o chefe dos homens bomba! No ninho da serpente! E sinceramente, saímos do Brasil sem nenhuma certeza que iríamos obter sucesso. 

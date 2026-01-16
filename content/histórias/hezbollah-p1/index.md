@@ -1,11 +1,7 @@
 ---
 title: "Hezbollah - Parte 1"
 date: 2016-11-11
-tags: ["welcome", "new", "about", "first"]
-description: "Guide to Chart.js usage in Blowfish"
-summary: "Uma entrevista inesquecível."
 ---
-# Hezbollah parte 1 — Camaleoa
 Uma das tarefas mais árduas na produção de conteúdo é viabilizar uma ideia. Mas, e quando essa ideia muda bruscamente durante a produção? E quando isso acontece no oriente médio? Mas a pauta e o roteiro não eram do esporte? As surpresas acontecem e temos que ser camaleões para nos adaptar ao foco da pauta quando somos surpreendidos pelos fatos.
 
 A primeira equipe de jornalismo do Ocidente a entrevistar com exclusividade, o líder do Hezbollah Hassan Nassarallah, foi a nossa! Eu, o Régis e o repórter cinematográfico Antonio Gil ficamos frente a frente com o cara que é nada mais nada menos que o comandante dos homens bomba! Ele é o dono do batalhão mais temido do Oriente Médio. Líder de um dos partidos que mais crescem na República Democrática Parlamentarista do Líbano. Sim! Eu, Régis e o repórter cinematográfico Antonio Gil já estivemos no "ninho da serpente".

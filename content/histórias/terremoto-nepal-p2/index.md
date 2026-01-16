@@ -1,11 +1,7 @@
 ---
 title: "Terremoto no Nepal - Parte 2"
 date: 2019-11-01
-tags: ["welcome", "new", "about", "first"]
-description: "Guide to Chart.js usage in Blowfish"
-summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
 ---
-# Terremoto no Nepal - Parte 2 — Camaleoa
 ![Milhares de pessoas sem abrigo em Katmandu.](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/1569855219238-WK1UXMRB94PB3VB4DEGB/unspecified-13.jpg)
 
 Milhares de pessoas sem abrigo em Katmandu.

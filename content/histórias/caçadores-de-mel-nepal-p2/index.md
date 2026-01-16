@@ -1,11 +1,7 @@
 ---
 title: "Os Caçadores de Mel do Nepal - Parte 2"
 date: 2019-11-22
-tags: ["welcome", "new", "about", "first"]
-description: "Guide to Chart.js usage in Blowfish"
-summary: "Os bastidores da gravação."
 ---
-# Os Caçadores de Mel - Nepal - parte 2 — Camaleoa
 Depois de uma madrugada inteira fazendo a digestão do bode que comemos durante o ritual dos caçadores de mel no dia anterior, acordamos bem cedinho para o último dia de trabalho no Nepal. O clima estava colaborando. Céu limpo, sem nuvens e pouco frio. O céu totalmente estrelado e o Annapurna lindíssimo aos nossos olhos. Tudo estava pronto para a coleta do mel. Tomamos café e nos dirigimos para a escadaria rumo ao platô aonde os repórteres Clayton e Carol Barcellos iriam acompanhar pendurados a coleta do mel. A nossa equipe se dividiu em 2 partes. Uma se embrenhou na mata com uma câmera 5D Cannon(Claudio Carneiro), e mais 3 microcâmeras(GO PRO), com o Makoto, a Carol e o Clayton. Nada se perdia no Planeta Extremo quando se tratava de gravar imagens. Nunca poupamos arquivo para isso. Em cada viagem comprávamos Terabits de HD para armazenamento. A outra equipe se dirigiu até a beira do Rio com uma super zoom(Ari Junior), a mesma lente utilizada nas transmissões de futebol com uma lente 40mm para captar tudo que acontecia na parede, e o Lucas com um drone para aproximação produzindo imagens aéreas. Enquanto isso os caçadores de mel preparavam a escada rústica, fabricada por eles mesmos, para a descida. Nossa equipe estava totalmente protegida das picadas das abelhas. A preparação é lenta devido a quantidade de arbustos no início da descida. As imagens falam mais que mil palavras. Observem o video abaixo e reparem a adrenalina que foi esse momento.
 
 ![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/1573621141452-T87WV95FNPL5E2ZTXIQ8/foto+pendurados.jpeg)

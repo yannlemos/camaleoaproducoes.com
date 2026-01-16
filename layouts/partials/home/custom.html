@@ -16,7 +16,7 @@
         <div class="lg:relative lg:m-0 lg:px-0 w-full">
           <!-- Gallery using Blowfish gallery structure -->
           <div class="width-patch"></div>
-          <div id="homepage-gallery" class="gallery rounded-xl overflow-hidden">
+          <div id="homepage-gallery" class="gallery overflow-hidden" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem;">
             {{ $images := slice "f1.webp" "f2.webp" "f3.webp" "f4.webp" "f5.webp" "f6.webp" "f7.webp" "f8.webp" "f9.webp" "f10.webp" "f11.webp" "f12.webp" }}
             
             {{ range $images }}
@@ -33,7 +33,7 @@
                 {{ end }}
               {{ end }}
               
-              <img src="{{ $finalPath }}" class="grid-w33" alt="Galeria de viagens" />
+              <img src="{{ $finalPath }}" class="grid-w33" alt="Galeria de viagens" style="width: 100%; height: 100%; object-fit: cover;" />
             {{ end }}
           </div>
         </div>

@@ -1,11 +1,7 @@
 ---
 title: "Hezbollah - Parte 3"
-date: 2019-09-25
-tags: ["welcome", "new", "about", "first"]
-description: "Guide to Chart.js usage in Blowfish"
-summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
+date: 2019-09-26
 ---
-# https://camaleoaproducoes/historias/hezbollahparte3 — Camaleoa
 “Vamos deixar bem claro aqui um conceito importante. Muitos confundem o partido libanês HEZBOLLAH com o HAMAS, FATAH, AL QAEDA, etc... O diferencial é que os alvos dos nossos guerrilheiros são estritamente militares e não civis inocentes.”
 
 Começou assim o nosso encontro com a assessoria do partido na terceira viagem que fizemos ao Líbano, assim que chegamos em Beirute. As cabeças lidas por nossos âncoras nos telejornais, no Brasil, deixaram todos muito irritados, inclusive as nossas fontes no Líbano. Qualificá-los como um grupo terrorista é a pior palavra a ser dita a quem está disposto a matar e a morrer por um ideal.  

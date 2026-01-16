@@ -1,15 +1,7 @@
 ---
 title: "Pirâmide Carstensz"
 date: 2024-03-11
-tags: ["welcome", "new", "about", "first"]
-description: "Guide to Chart.js usage in Blowfish"
-summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
-weight: 3
 ---
-# A propina da salvação! — Camaleoa
-Pirâmide Carstenz - O dinheiro da salvação!
--------------------------------------------
-
 ![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/fcb3893a-300e-4240-8b3c-00dfc24d7a4f/SAM_0470.JPG)
 
 A mais alta montanha da Oceania. 4.884m

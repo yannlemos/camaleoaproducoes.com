@@ -11,4 +11,4 @@ Momentos inesquecíveis em viagens e produções são experiências que vão al�
 
 Seja ao capturar uma paisagem linda em uma filmagem ou ao se conectar com diversas culturas, cada momento se torna especial. 
 
-Esses momentos enriquecem nossa vida pessoal e profissional e refletem a missão da Camaleoa, que é registrar e compartilhar histórias que emocionam e inspiram, celebrando a diversidade e a beleza do mundo para todas as pessoas desse Planeta!
+Esses momentos enriquecem nossa vida pessoal e profissional e refletem a missão da Camaleoa, que é registrar e compartilhar histórias que emocionam e inspiram, celebrando a diversidade e a beleza do mundo para todas as pessoas desse Planeta!<br>

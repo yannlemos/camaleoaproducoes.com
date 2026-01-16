@@ -1,12 +1,7 @@
 ---
 title: "Qual é o seu Everest?"
 date: 2024-04-11
-tags: ["história"]
-description: "Guide to Chart.js usage in Blowfish"
-summary: "Bastidores de uma escalada ao Monte Everest."
-weight: 1
 ---
-# QUAL É O SEU EVEREST? — Camaleoa
 Sempre que lia alguma notícia da maior montanha da Terra sentia um misto de medo e de uma ansiedade enorme de estar lá. Acho que sempre, a todo instante, estamos tentando romper “altitudes”, por qualquer motivo. Seja na conquista de um novo amor, um novo trabalho, uma travessia a nado, um novo projeto, enfim, será que consigo chegar lá? Quem tem pleno conhecimento dos próprios limites? Qual é o seu EVEREST? E quando os impulsos de tentar o impossível é mais forte? Os riscos aumentam! Precisamos ter foco nos objetivos para conseguir romper as “altitudes” existentes. Assim foi minha experiência rumo ao Everest, em 2008. Uma barreira histórica como produtor de reportagens para minha vida! Você não retorna para casa a mesma pessoa. Tudo é tão forte e poderoso naquele lugar que quando retornamos nos sentimos mais vivos e ao mesmo tempo muito pequenos. É o sentimento de que não somos nada diante daquela imensidão e que não pertencemos àquele lugar. Essa é a sensação quando conseguimos as nossas vitórias. Transforme todos os objetivos dentro da sua profissão no seu “EVEREST” a conquistar. Eu ainda tento chegar no cume, E você? Já conquistou seu EVEREST?
 
 ![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/b678f918-6b94-4346-a5cf-23273abf223e/Firefly+EVEREST+82694.jpg)

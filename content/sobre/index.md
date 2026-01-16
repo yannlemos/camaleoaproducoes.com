@@ -12,15 +12,17 @@ showAuthor: false
 Meu nome é Claudio de Moraes: Jornalista, Produtor, Pai e Aventureiro. Foram 40 anos viajando a trabalho e férias. Descrevo aqui minhas experiências pelo planeta!
 {{< /lead >}}
 
-![Alt text](foto_emmy.png "Com minha indicação ao Emmy Internacional da Televisão pelo programa Planeta Extremo")
-
 ## Quem Sou Eu
+
+![Alt text](foto_emmy.png "Com minha indicação ao Emmy Internacional da Televisão pelo programa Planeta Extremo")
 
 Fui responsável durante 5 anos (2010 a 2015), produzindo e executando a gravação do programa PLANETA EXTREMO. Pólo Sul, Pólo Norte, Deserto do Saara, Vietnã, China, Bahamas, África(Rio Zambeze), Noruega, Utah(EUA), Nepal, Havaí (EUA), Micronésia (Truck Lagoon), Chile (Deserto do Atacama), Argentina (Andes), Vanuatu (Vulcão Ambrhim).
 
 Esses são alguns dos países que me hospedei, trabalhei e pude presenciar momentos incíveis e de muita responsabilidade pois a única preocupação minha era trazer os meus amigos de volta pra casa, em segurança. A maior experiência foi com o terremoto do Nepal, em abril de 2015, aonde eu e minha equipe vivenciamos in locco, o sofrimento daquele povo humilde. Essa experiência foi o meu mestrado em responsabilidade  e segurança com a vida alheia. 
 
 Durante 6 anos (2003 a 2009), produzi, transmiti e editei o Mundial de Surfe nas praias da Polinésia Francesa, Micronésia, África, Havaí, Califórnia, Japão, Austrália, Nova Zelândia, Europa, América Central, para o programa ZONA DE IMPACTO, no Sportv e para os telejornais da TV GLOBO. 
+
+![Alt text](foto_crachás.png "Décadas de crachás!")
 
 Por 10 anos trabalhando com a Seleção Brasileira. Foram 4 Copas do Mundo (Itália, EUA, França e Alemanha), e 3 Olimpíadas ( Barcelona, Atlanta e Sidney.  Atuei em 5 COPAS DAS CONFEDERAÇÕES. Uruguai, Bolivia, Arábia Saudita e México e  durante 14 anos produzi editei para o ESPORTE ESPETACULAR.  Produzi 7 Pororocas na Amazônia.  Fiz 15 expedições pelo interior do Brasil (Bonito, Chapada Diamantina, Floresta Amazônica (Amazonas, Amapá e Pará). Por 2 anos produzi séries para o FANTÁSTICO E ESPORTE ESPETACULAR no Líbano sobre o partido Hezbolah. 
 
@@ -32,14 +34,22 @@ Nunca poderia imaginar que anos depois conheceria não só as praias mais lindas
 
 Por isso te convido a romper as fronteiras desse planeta sem medo de ser feliz! Você não precisa ser um poliglota para desbravar seus sonhos. A relação, o contato, ouvindo outras línguas, observando as culturas e cidadãos de outros países, são sensações e emoções que te lapidam para ser uma pessoa melhor, seja como homem, como pai. como profissional e como cidadão. Enfim, agora quero compartilhar meu conhecimento com todos, nessa rede aberta. Vem comigo! Porque a vida é curta e podemos sonhar nosso tempo! É de graça e não faz mal nenhum! Viajar é aprender a ver seu país com outros olhos. Posso te garantir que será o gasto com o melhor custo benefício do seu tempo, seja lá aonde você esteja. Não importa a distância ou os obstáculos. Viajar é como escalar uma montanha. Por que ir até o cume? Porque simplesmente existe a possibilidade de concretizar esse sonho.
 
-Essa é a minha intenção. Levar pessoas comuns a lugares inimagináveis!
 
-<strong>Viaje e sonhe!</strong>
+Essa é a minha intenção. <br>
+Levar pessoas comuns a lugares inimagináveis!
 
-![Alt text](foto_cadastur.png "Cetificado da Cadastur")
-![Alt text](foto_turismo_consciente.png "Selo Turismo Consciente RJ")
+{{< lead >}}
+Viaje e sonhe!
+{{< / lead >}}
 
-## Depoimentos
+## Depoimentos de Clientes
+
+### Clayton Conservani
+{{< youtubeLite id="Y-fzmD6RjYk" label="Clayton Conservani - Depoimento Camaleoa" >}}
+### Cristiane Dias
+{{< youtubeLite id="JGPjlcjoMU4" label="Blowfish-tools demo" >}}
+### Spencer Ray
+{{< youtubeLite id="Qw-fefSvXBU" label="Blowfish-tools demo" >}}
 
 ## Parceiros
 {{< gallery >}}
@@ -50,3 +60,7 @@ Essa é a minha intenção. Levar pessoas comuns a lugares inimagináveis!
   <img src="parceiro_ferj.jpg" class="grid-w33" />
   <img src="parceiro_sakura.png" class="grid-w33" />
 {{< /gallery >}}
+
+## Certificações
+![Alt text](foto_cadastur.png "Cetificado da Cadastur")
+![Alt text](foto_turismo_consciente.png "Selo Turismo Consciente RJ")
