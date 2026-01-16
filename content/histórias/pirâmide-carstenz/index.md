@@ -2,61 +2,93 @@
 title: "Pirâmide Carstensz"
 date: 2024-03-11
 ---
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/fcb3893a-300e-4240-8b3c-00dfc24d7a4f/SAM_0470.JPG)
-
-A mais alta montanha da Oceania. 4.884m
+![](1.png "A mais alta montanha da Oceania. 4.884m")
 
 Um lugar de dificílimo acesso. Tentamos por três vezes chegar ao acampamento base. Na 1ª tentativa a trilha estava repleta de seqüestradores e só os mais loucos se arriscariam a ir para a Papua Nova Guiné. Na 2ª tentativa o cearense Rosier Alexandre foi sequestrado e quase morreu na trilha, o que fez a nossa equipe desistir de se aventurar novamente. Perdemos nessas 2 tentativas aproximadamente 100 mil dólares, hoje seriam quase 500 mil reais porque já estávamos com o guia pago e toda a logística para realizar a produção desse episódio. “A ESCALADA DA PIRÂMIDE CARSTENZ”, a montanha mais alta da Oceania. 
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/c4c54f21-7eb3-4df8-b417-c16d5019d08d/SAM_0240.JPG)
-
-O hotel aonde fiquei me recuperando do hematoma da cirurgia no meu joelho. Triste por estar sozinho…
+![](2.png "O hotel aonde fiquei me recuperando do hematoma da cirurgia no meu joelho. Triste por estar sozinho…")
 
 Na 1ª tentativa nem saímos do Brasil. Na 2ª fomos até a Indonésia e também não rolou. Tivemos que inventar uma pauta que acabou virando uma matéria para o Esporte Espetacular. Eu tinha acabado de operar meu joelho e fiquei em Bali, num hotel, durante 7 dias, usufruindo de toda mordomia e logicamente recuperando meu joelho. Voltamos para o Brasil frustrados por mais uma tentativa fracassada. Na 3ª tentativa tudo foi diferente. Chegamos em Bali, e encontramos uma equipe brasileira que tinha acabado de voltar da pirâmide. Essa turma era chefiada pelo alpinista brasileiro Rodrigo Raineri que estava hospedado no mesmo hotel que a gente. Meu joelho ainda dava sinais de que seria muito difícil. Estávamos muito apreensivos pelo que poderia acontecer nessa trilha pelas histórias que aconteceram por lá. O Clayton foi visitar o Rodrigo no quarto e saber o que poderíamos encontrar por lá, além de dar os parabéns por ter chegado ao cume da Pirâmide. Quando o Clayton retorna nos reunimos para saber as novidades, e para minha surpresa o Rodrigo disse:…”O Claudinho e o Lucas não vão conseguir chegar lá! A trilha é muito difícil pra eles!”.  Fiquei surpreso com essa afirmativa dele pois já tínhamos ido juntos para o acampamento base do Everest em 2008.
 
+{{< gallery >}}
+  <img src="3.webp" class="grid-w33" />
+  <img src="4.webp" class="grid-w33" />
+  <img src="5.webp" class="grid-w33" />
+  <img src="6.webp" class="grid-w33" />
+{{< /gallery >}}
+
 Foi difícil chegar nos 5.364m do acampamento base da maior Montanha do planeta mas cheguei depois de 12 dias de caminhada subindo e descendo as montanhas pra chegar até lá. Mas essa aventura eu conto depois. Fiquei mais chateado porque ele nem se preocupou em falar olho no olho comigo. Falou diretamente para o Clayton e isso me aborreceu tanto que mexeu com o meu psicológico. Minha condição física me preocupava. No dia seguinte saímos de Timika e pegamos um avião bem precário. Foi um sobrevoo aonde só víamos floresta. De repente vimos uma clareira de terra e barro e quando aterrizamos a 1ª imagem foram homens do exército da Indonésia fortemente armados cercando a aeronave. Pensei comigo mesmo. O que estou fazendo aqui? Fomos recebidos por nosso guia alemão, o Werner, cercados por nativos da tribo Lani, ou papuasios (como são chamados os que nascem na Papua Nova Guiné), já pegaram nossas bagagens e percebemos que não falavam nada em inglês. Seriam eles que iriam nos ajudar a levar nossos equipamentos para a base da Montanha. Eram pessoas com expressões fortes e que nos observavam muito. Quando olhávamos para eles nem se preocupavam em disfarçar o olhar. Eram descendentes de canibais! Os avós eram canibais! E tinham muitos adereços na cabeça e também nos membros inferiores. Tinha um cidadão mais velho usando bainhas penianas de cabaça de bambu, em posição ereta! Muito louco. Difícil não olhar para aquela “jeba de bambu”🤣🤣🤣🤣. Fiquei pensando um cara desses andando com aquilo na orla da zona sul do Rio de Janeiro. Com apenas seis milhões de habitantes repartidos em uma área menor do que o estado da Bahia, Papua-Nova Guiné é o país que possui a maior diversidade linguística do mundo. Isso significa que, na prática, basta atravessar um vale ou cruzar uma montanha para encontrar uma nova língua e outro grupo étnico. Essa convivência entre povos diferentes trouxe muita discórdia entre eles até os dias de hoje. Fomos acolhidos numa casa de tapera e as mulheres começaram a fazer um buraco e ao lado e uma fogueira grande com muitas pedras. Primeiro colocaram muita folhagem no buraco. Depois vários frangos limpos e crus. Na sequência mais folhas e depois jogaram por cima as pedras incandescentes. Imaginei logo que seria nosso “almoço”. Enquanto a comida não ficava pronta o “ Lucas Dumont” divertia a criançada com o drone. Eles ficaram perplexos com aquela coisa que voava pra lá e pra cá e fazia um zumbido diferente. Foi gostoso de ver como aquelas crianças brincavam tentando pegar o drone. Foi o 1º momento de contato amistoso com a tribo Lani. Agora, hora de comer!!! As mulheres tiraram as pedras já pouco mais frias e incrivelmente os frangos estavam “semi-cozidos”… foi difícil demonstrar prazer em comer aqueles pedaços de frangos sem sal e um pouco crus, mas quem está na água é pra se molhar. Comemos o que veio pela frente inclusive com as folhas mas confesso que ninguém sentiu dor de barriga. Desceu bonito!!! Mas antes de anoitecer veio a 1ª caminhada até o 1º acampamento aonde passaríamos a noite pra iniciar a nossa jornada. Eram apenas 4km de caminhada, muito tranquilo, mas não pra mim! Fiquei por último na trilha e não sei porque comecei a me sentir mal, as pernas tremiam. Isso a poucos metros de chegar no “acampamento”.  Sentei na trilha e pensei comigo novamente:”o que estou fazendo aqui, idiota!” Nesse momento passaram por mim 4 ou 5 crianças rindo daquela situação que eu estava. Sentado, bufando até a alma e tentando respirar todo o oxigênio! Foi patético o meu início! Mas eis que veio uma voz do além! “O CLAUDINHO NÃO VAI CHEGAR!” Nossa! Foi o combustível que precisava. Reuni todas as forças que tinha e cheguei no acampamento. Ufa! Se o início foi assim imagina depois? Montamos nossas barracas lá e a noite foi terrível pra dormir. Vários “monstros” atormentavam meu psicológico! Será que vou conseguir? A trilha para a base da Pirâmide Caratenz tinha algumas peculiaridades. 
+
+{{< gallery >}}
+  <img src="7.webp" class="grid-w33" />
+  <img src="8.webp" class="grid-w33" />
+  <img src="9.webp" class="grid-w33" />
+  <img src="10.webp" class="grid-w33" />
+  <img src="11.webp" class="grid-w33" />
+  <img src="12.webp" class="grid-w33" />
+  <img src="13.webp" class="grid-w33" />
+  <img src="14.webp" class="grid-w33" />
+  <img src="15.webp" class="grid-w33" />
+  <img src="16.webp" class="grid-w33" />
+  <img src="17.webp" class="grid-w33" />
+{{< /gallery >}}
+
+# Vídeo
 
 No segundo dia partimos do Marco zero do nível do mar. Acordamos cedo e logo conhecemos o líder da tribo Lani. Um sujeito enorme com uma fala grosseira e escolhendo os homens e mulheres que iriam até o acampamento base. Houve uma discussão mas vence o mais forte. Granus, era o chefe e ponto final. Começamos a subida e atravessamos uma floresta densa e cheia de obstáculos. Uma subida lenta e difícil com árvores caídas atrapalhando a caminhada. Não existia trilha, apenas o rumo, a direção. Mas chegamos com tranquilidade ao 1º acampamento. Aí começava o drama dessa jornada. Logo uma chuva torrencial caiu com uma tempestade absurda. A noite foi horrível. No terceiro dia acordamos molhados e com os nativos querendo abandonar a jornada. Pra eles a tempestade era um péssimo presságio. O acampamento deles foi totalmente destruído pela ventania e quase não dormiram. Com a gente não foi diferente. Perdemos umas 2h até que o vento e a chuva pararam. Foi um alívio. Achamos que tudo iria acabar ali. Sinceramente, deu uma vontade danada de voltar pra casa. Novamente vieram perguntas na mente me motivando a desistir. Mas começamos a brincar e partimos para outro acampamento. A trilha ficou mais “tranquila”, com paisagens belíssimas! Parecia que estávamos num mundo jurássico. Samambaias gigantes! Formações rochosas que nunca tinha visto. Mas um problema maior estava surgindo no meu corpo. Devido ao desgaste físico até ali senti que meu joelho esquerdo começava a inchar. Estava pra começar um drama inesquecível na minha vida. 
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/9c37daf6-ea16-4ea6-945c-c4f30c546371/SAM_0379.JPG)
+![](18.png "Granus, o chefe, o líder dos guias na expedição. Um durão mas de um coração incrível! Ficou com o meu relógio. Dei de presente por tudo que ele fez durante a nossa jornada.")
 
-GRANUS, o chefe, o líder dos guias na expedição. Um durão mas de um coração incrível! Ficou com o meu relógio. Dei de presente por tudo que ele fez durante a nossa jornada.
-
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/a15bd56e-8429-4d62-b679-7c49201b1e7c/SAM_0314.JPG)
-
-da direita para esquerda: Marlus Werneck (apoio escalada), PEPE JIJON (guia na montanha), CLAYTON CONSERVANI (repórter) , EU (produção executiva), ARI JUNIOR (repórter cinematográfico), Claudio Carneiro (repórter cinematográfico) e Lucas Munhoz (fotógrafo e piloto de drone).
+![](19.png "Da direita para esquerda: Marlus Werneck (apoio escalada), PEPE JIJON (guia na montanha), CLAYTON CONSERVANI (repórter) , EU (produção executiva), ARI JUNIOR (repórter cinematográfico), Claudio Carneiro (repórter cinematográfico) e Lucas Munhoz (fotógrafo e piloto de drone).")
 
 No quarto dia de caminhada nosso guia alemão resolveu se adiantar pra chegar antes da gente no próximo acampamento. Seria a distância mais longa a ser percorrida. Ficamos com os nativos aonde a comunicação era na maior parte feita por sinais. A palavras “ok” e “no”, eram as mais utilizadas. Me lembro perfeitamente do nativo SANAPIOS, começou a dançar com um facão! Foi medonho. O cara fazia caras e bocas dançando e batendo com o facão numa pedra e saiam faíscas. Pensei:”Pronto! Vou virar comida! Vamos pra panela. PQP que estou fazendo aqui. De repente ele lançou um sorriso no rosto e a minha tensão logo foi embora. O Clayton percebeu a brincadeira e pediu, através de gestos, pra ele fazer novamente pra gente gravar. Ufa!!!! Virar comida de canibal não estavam em nossos planos. 
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/e1905756-def1-490f-8c99-67b79e1de786/SAM_0363.JPG)
-
-SANAPIUS, o que está a minha direita. Foi o que dançou com o facão! Aliás vejam que o mesmo facão está apontado para meu estômago. Acho que eu seria uma bela refeição para eles…kkkkkkkkkk. Todos são descendentes de canibais. Essa pratica foi banida no início do século xx. Pelo menos é que consta nos livros.
+![](20.png "Sanapius, o que está a minha direita. Foi o que dançou com o facão! Aliás vejam que o mesmo facão está apontado para meu estômago. Acho que eu seria uma bela refeição para eles… kkkkkkkkkk. Todos são descendentes de canibais. Essa pratica foi banida no início do século xx. Pelo menos é que consta nos livros.")
 
 Já estávamos numa altitude de aproximadamente 2 mil metros. NÃO EXISTE ESTRADA! Em algumas situações, nem trilhas! Só os nativos conheciam o ambiente e as vezes eles se perdiam, como acabou acontecendo. As paisagens eram jurássicas! Lagos, cachoeiras aonde poucos homens penetraram. Lembro bem de atravessar o rio e me deu uma dor de barriga absurda! Já estava há 3 dias sem ir ao banheiro. Olha, tive medo do que saiu! Deixei uma lembrança terrível na Papua Nova Guiné as margens de um rio lindo! As paradas para o “almoço”, que eram feitos pelos nativos, era composta de macarrão e salsicha, mais nada! Eles só comiam batata doce. Incrível o poder da batata doce! Quando retornei ao Brasil me interessei em saber esse poder. Os caras comeram durante aproximadamente 8 dias somente batata doce!
 
-**BENEFÍCIOS DA BATATA DOCE NA ALIMENTAÇÃO DOS NATIVOS.**
+{{< gallery >}}
+  <img src="21.webp" class="grid-w33" />
+  <img src="22.webp" class="grid-w33" />
+  <img src="23.webp" class="grid-w33" />
+  <img src="24.webp" class="grid-w33" />
+  <img src="25.webp" class="grid-w33" />
+  <img src="26.webp" class="grid-w33" />
+  <img src="27.webp" class="grid-w33" />
+  <img src="28.webp" class="grid-w33" />
+  <img src="29.webp" class="grid-w33" />
+  <img src="30.webp" class="grid-w33" />
+  <img src="31.webp" class="grid-w33" />
+  <img src="32.webp" class="grid-w33" />
+  <img src="33.webp" class="grid-w33" />
+  <img src="34.webp" class="grid-w33" />
+  <img src="35.webp" class="grid-w33" />
+  <img src="36.webp" class="grid-w33" />
+{{< /gallery >}}
 
-1 - Níveis de açúcar no sangue mais regulados
-
-2 - Ossos mais fortes
-
-3- Pele mais saudável
-
-4-Cabelos mais fortes
-
-5-Potente antioxidante
-
-6-Níveis de estresse sob controle
-
-7-Melhora o trânsito intestinal
-
-8-Combate a anemia
-
-9-Bom para o coração
-
-10-Previne contra o câncer
+**Benefícios da batata doce na alimentação dos nativos:**
+1. Níveis de açúcar no sangue mais regulados
+2. Ossos mais fortes
+3. Pele mais saudável
+4. Cabelos mais fortes
+5. Potente antioxidante
+6. Níveis de estresse sob controle
+7. Melhora o trânsito intestinal
+8. Combate a anemia
+9. Bom para o coração
+10. Previne contra o câncer
 
 Incrível o poder da batata doce! Mas o quarto dia de caminhada foi o mais puxado. Eram planícies intermináveis e com muita água no solo encharcado. Já estava caminhando há 10 h e meu joelho esquerdo já estava uma bola quando cheguei para o Clayton e disse que minhas pernas não me obedeciam mais. Percebi que se não chegássemos ao acampamento logo, pois estava anoitecendo, eu não iria aguentar e teríamos que dormir ali mesmo. Pepê me respondeu que não era possível porque senão poderíamos morrer de hipotermia pois o frio a noite era intenso. Pra piorar percebemos que os nativos se perderam na trilha. Foi a pior sensação da vida. Dores, perdidos e uma sensação de impotência enormes! O Carneiro teve a ideia de fazer uma grande fogueira para que o alemão e os outros que foram a frente pudessem nos ver. Foi a salvação porque eu já não aguentava mais caminhar depois de 13h na trilha. Foi nesse momento que o GRANUS me deu um "passe", pronunciado no dialeto LANI, e não sei se fez diferença, mas sei que o pior seria carregar 100kg por 2 quilômetros até a nosso próximo acampamento. Eu sentia tremores pelo corpo, respirava com dificuldade devido ao cansaço e parar quando estávamos perdidos fez com que o mínimo de resistência fosse embora. Todos estávamos cansados, exaustos.
+
+# Vídeo 2
+# Vídeo 3
+
+{{< gallery >}}
+  <img src="37.webp" class="grid-w33" />
+  <img src="38.webp" class="grid-w33" />
+  <img src="39.webp" class="grid-w33" />
+  <img src="40.webp" class="grid-w33" />
+{{< /gallery >}}
 
 Finalmente chegamos ao acampamento! Não precisei ser carregado. A duras penas cheguei e mal conseguia andar. Não queria nem comer de tão cansado mas fui convencido pelos companheiros que teria que comer senão o dia seguinte seria crônico pois ainda teríamos mais 2 dias de caminhada até chegar ao acampamento base. Mas tudo que está ruim pode piorar! 0 alemão Werner, nosso guia na Papua nos informa que não seria possível atravessar a mina de ouro americana para chegar em Timika. Teríamos que retornar pelo mesmo caminho que estávamos indo para o acampamento. Bateu uma depressão em todos! Imagina chegar, escalar e retornar por 62km? Dormir era a melhor alternativa naquele momento porque cedo já desmontaríamos acampamento rumo a base da pirâmide.
 
@@ -64,68 +96,100 @@ Finalmente chegamos ao acampamento! Não precisei ser carregado. A duras penas c
 
 Amanheceu o dia e as notícias ruins continuaram. O Ari Junior caiu no dia anterior e quando amanheceu percebeu que tinha acontecido algo na clavícula! Ele tinha caído sobre o ombro e pra não danificar a câmera, ele acabou caindo por cima do ombro, e depois no Brasil, veio saber que fraturou a clavícula do ombro direito! O ombro que apoiava a câmera! Precisou a partir daquele momento utilizar uma tipóia pra suportar as dores. E pra ficar ainda pior, o alemão Werner nos disse que só tínhamos 2 opções. Ou voltar pelo mesmo caminho, ou passar pela maior mina de ouro do mundo, Grasberg, ela é operada pela empresa norte-americana Freeport-McMoRan, e é considerada a maior mina de ouro a céu aberto do mundo, com uma produção anual de mais de 1,3 milhão de onças de ouro, ou seja, aproximadamente 35 toneladas de ouro ao ano!!!!
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/827fc941-fd1f-4b28-80a3-5f392e398377/mina.jpeg)
-
-Maior mina de ouro do planeta!
+![](41.png "Maior mina de ouro do planeta!")
 
 Mas… teríamos que pagar 15 mil dólares para os policiais que tomavam conta da entrada da mina. Nenhum estrangeiro ou escalador podia passar pela mina, justamente para que não fosse registrada a devastação ambiental. Para vocês terem ideia do problema, o escalador Rodrigo Raineri pagou essa quantia e teve que sair da mina de ouro simulando uma “PRISÃO FAKE”, que os policiais corruptos tramaram. Toda a equipe dele viajou algemada da mina até TIMIKA!!! A distância da base da pirâmide até a mina de ouro é a mesma da trilha, ou seja aproximadamente 6h de ônibus ou 5 dias à pé. Ou seja, quem quiser escalar a pirâmide de Carstenz é obrigado a dar a volta que demos para chegar até a base, a pé! Poderíamos ir de ônibus próximo a base da montanha , mas a empresa mineradora proibiu o acesso depois que ambientalistas denunciaram a destruição do meio ambiente, que continua a acontecer! Enfim, tínhamos um problemaço! Já eram 9h da manhã na Papua e 20h no Brasil, e decidi junto com o Clayton que eu e o Ari não tínhamos condições de retornar pela mesma trilha. Só nos restava ligar para o Brasil e expor o problemão que estávamos passando. Peguei o telefone satelital e liguei para o Brasil, expus o que estava acontecendo, e se havia alguma maneira de enviar os 15 mil dólares que a máfia da mina de ouro estava pedindo. Não houve resistência! Imediatamente a equipe no Brasil se mobilizou para enviar o dinheiro para a conta do Werner, na Alemanha, e de lá para os policiais na Papua. Até hoje não sabemos se o nosso guia esteve envolvido nessa falcatrua.
 
 Quinto dia de caminhada! Finalmente, depois do telefonema ficamos aliviados com a resposta dos amigos no Brasil, recomeçamos a nossa jornada. Dessa vez eu estava com stickers (bastões de apoio para caminhar), que o Marlus Werneck me emprestou para aliviar o esforço durante a trilha. Meu joelho endureceu e não sentia mais dores apenas o inchaço, e não consegui mas dobrar o joelho. Eu não poderia correr o risco de torcer porque seria o fim. Um resgate ali iria demorar pelo menos uns 2 dias, e somente de helicóptero. Tenho até hoje o par de muletas improvisado que usei. Guardei como um troféu! A partir dali acelerei o passo e passei a admirar a paisagem que começava a mudar. Antes de anoitecer fizemos um acampamento improvisado numas pedras e admiramos um entardecer incrível naquele fim de mundo.
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/945ca2b8-2798-41d2-9be3-427f09d08231/DSC00619.JPG)
+![](42.png "Visual das nossas barracas.")
 
-Visual das nossas barracas
+![](43.png "Nosso acampamento no quinto dia de trilha.")
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/bc58847c-ee9d-4f8d-ba91-e1bb3a8c99c7/Captura+de+Tela+2024-03-12+a%CC%80s+12.33.39.png)
-
-Nosso acampamento no quinto dia de trilha.
+# Vídeo 4
+# Vídeo 5
 
 Acho que foi a minha melhor noite de sono. E isso ficou claro quando decidimos tomar café da manhã com os nossos guias. Foi uma manhã divina. Ali fizemos uma aliança que ficou em nossas memórias par o resto de nossas vidas. Eles cantaram pra gente cantigas dos ancestrais, muito antigas. Foi épico! Eu ficaria ali o dia inteiro ouvindo e gravando eles cantarem. Foi emocionante pra todos nós. mas era o nosso quinto dia de caminhada e não podíamos perder tempo. O foco principal era a escalada do Clayton, do Marlus e do Pepê, além claro, da propina de 15 mil dólares que a essa altura ja deveria estar na conta do nosso guia alemão.
 
 Sexto dia! Logo após o "café da manhã”partimos para o acampamento base. O ataque final. O terreno ja começava a modificar. Ao invés de vegetação mais pedras e o frio também começou a apertar. Vocês perguntariam:"…e a água? De onde vinha a água?” Bebíamos e enchíamos nossos reservatórios com água dos riachos e cachoeiras que víamos pelo caminho. Só que agora esse elemento essencial se tornaria mais escasso mas ainda conseguíamos encher nossas garrafas de água. As subidas se tornavam mais constantes o que dificultava minha caminhada com os bastões. Estávamos a aproximadamente 3.500m e o frio apertava. As subidas se tornavam mais íngremes até que num momento o Lucas Munhoz teve pânico para atravessar uma aresta, que convenhamos, foi o pior momento da trilha em termos de altura. Qualquer deslize seria perigoso. Era um ribanceira que certamente nos levaria para outra dimensão, e sem cordas!!!! Um nevoeiro brutal que dificultou mais ainda a subida. Nesse momento veio o Granus, sim ele! O líder e falou com a natureza. Conclamando um idioma totalmente desconhecido para as nuvens. Foi assustador e inspirador! Em minutos todo o nevoeiro se dissipou. Acreditem, foi incrível o que aconteceu. Ver aquele ser humano gritar para o abismo pedindo que a natureza desse oportunidade pra gente foi de arrepiar!
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/6d4e0de6-b25f-4c10-9531-a166d214e17b/IMG_2056.JPG)
+![](featured.webp "Minhas muletas (stickers) foram a salvação para suportar a trilha.")
 
-Minhas muletas (stickers) foram a salvação para suportar a trilha.
+{{< gallery >}}
+  <img src="44.webp" class="grid-w33" />
+  <img src="45.webp" class="grid-w33" />
+  <img src="46.webp" class="grid-w33" />
+  <img src="47.webp" class="grid-w33" />
+{{< /gallery >}}
+
 
 Depois de 7h de escalaminhada entre pedras e penhascos finalmente avistamos o nosso acampamento base. Foi doido! Foi arriscado! Mas quando cheguei no topo da montanha, e avistei o acampamento base da Pirâmide Carstenz, dei um grito que ultrapassou todos os limites. Lembrei da frase do Rodrigo Raineri:”O CLAUDINHO NÃO VAI CHEGAR!”. Chorei de alegria, de emoção, por ter conseguido chegar com a ajuda dos meus amigos e daquele povo que nunca imaginei de conviver durante a minha vida. Foi um grito que ecoou por todo o vale. Eu estava chegando aonde muitos não acreditavam que eu chegaria. O alemão Werner ao me ver disse:”Congratulations Claudio! I didn't believe you would make it this far to base camp". Parabéns Claudio! Eu não acreditei que você fosse chegar até aqui ao acampamento base. E apertou com força minha mão! Aprendi durante as trilhas da vida que o psicológico é mais importante que os músculos. Eles ajudam mas a cabeça tem que estar focada nos objetivos a serem alcançados e tinha um componente extra. A frase do Rodrigo! OBRIGADO RODRIGO RAINERI POR NÃO ACREDITAR NA MINHA CAPACIDADE DE CHEGAR! Eu e o Lucas chegamos!!!! Essa falta de credibilidade na capacidade do ser humano foi essencial! Era o combustível que precisávamos para chegar, e chegamos!!!! Mas, a preocupação com a volta não saia da minha cabeça!
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/fda75711-9a74-4bd1-ba41-38e1db45a8fb/IMG_9424.JPG)
-
-Vocês podem observar que meu joelho esquerdo esta uma bola. Não conseguia apoiar com o pé esquerdo.
+![](48.png "Vocês podem observar que meu joelho esquerdo esta uma bola. Não conseguia apoiar com o pé esquerdo.")
 
 Após a chegada no acampamento base a demanda prioritária era DESCANSAR. Dormimos sem hora pra acordar. Acordamos sem compromisso algum no 7º da expedição, e começamos a organizar o ataque ao cume. A água que consumimos foi a do lago que estava próximo as barracas. Era uma água sem transparência e formada pelo degelo das montanhas, do Glaciar, no entorno do acampamento. Não sabíamos se era confiável ou não para tomar, mas não tínhamos alternativa a não ser beber, cozinhar e tomar banho ali mesmo.
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/515533a7-8343-4884-9b17-bda13b9f6142/SAM_0424.JPG)
-
-Nossa água durante os 4 dias no acampamento base. Logicamente que banho aqui, pelo menos pra mim, somente de lencinho umedecido. A temperatura da água estava próximo de zero!!! Você beberia essa água?
+![](49.png "Nossa água durante os 4 dias no acampamento base. Logicamente que banho aqui, pelo menos pra mim, somente de lencinho umedecido. A temperatura da água estava próximo de zero!!! Você beberia essa água?")
 
 Passamos o dia fazendo preparativos para o ataque ao cume e a tarde um grupo subiu mais uns 100m para observar todo o esplendor da Pirâmide. Gravamos toda uma tarde para que pudéssemos ter material para a edição do programas. Mas a nossa preocupação no momento passou a ser também sobre a propina! No final do dia recebemos a notícia do alemão Werner de que o dinheiro já estava sendo transferido para os policiais, mas para sair da montanha e entrar na mina teríamos que simular algo para a despistar , ou seja, não bastava apenas dar o dinheiro para a máfia. Teríamos que ter um bom pretexto para sair de lá, "legalmente"! É hilariante se não for trágico! Para a nossa sorte uma comissão de políticos da Papua Nova Guiné estava visitando a mina. Pronto! já tínhamos um belo motivo para entrar na mina "legalmente”. Mas teríamos que gravar essa comitiva como se fosse um documentário. Dessa maneira a direção da mina não nos impediria de sair de lá. Incrível, mas tudo já estava sendo articulado para nos encontrarmos com essa comitiva depois de atingir o cume da Pirâmide de Carstenz! Nosso foco agora passa a ser esse. Só o topo da montanha interessava naquele momento!
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/f969b9c1-5c6d-44a3-9bff-c010b1c3f863/IMG_9355.JPG)
+![](50.png "O topo da Pirâmide Carstenz!")
 
-O topo da Pirâmide Carstenz!
+{{< gallery >}}
+  <img src="51.webp" class="grid-w33" />
+  <img src="52.webp" class="grid-w33" />
+  <img src="53.webp" class="grid-w33" />
+  <img src="54.webp" class="grid-w33" />
+{{< /gallery >}}
 
 O oitavo dia foi reservado para mais um descanso da equipe que iria escalar. Definimos que um grupo ficaria no topo de outra montanha para manter comunicação com a equipe que iria escalar. Procurei o máximo possível poupar meu joelho que ainda estava muito inchado. Estava rígido pelo frio e pelo derrame interno. Não sentia dores mas qualquer movimento brusco, ou qualquer pequena torção, sentia uma dor insuportável. Por isso fiquei o máximo de tempo possível imóvel pra me preservar no momento que teria que subir o morrote pra compor a equipe. Sei que não seria fácil mas se chegamos até ali não havia dor ou obstáculo que desviasse nosso objetivo. Chegar no topo da maior montanha da Oceânia. A partida no dia seguinte estava programada pra ser às 4h da manhã, pois percebemos que durante o dia uma névoa se formava no topo da pirâmide e as consequências seriam imprevisíveis!
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/2258c5ba-4e55-4845-a3ea-0f32e0e502ff/IMG_9348.JPG)
-
-a base da pirâmide Carstenz e as nuvens ameaçando nosso projeto.
+![](55.png "a base da pirâmide Carstenz e as nuvens ameaçando nosso projeto.")
 
 Nono dia! Agora é tudo ou nada! A primeira equipe saiu às 4h da madrugada, ainda noite. Clayton, Pepe, Marlus Werneck e o Lucas, deixaram o acampamento no horário previsto. A segunda equipe sairia às 6h para o morrote ao lado da pirâmide pra gravar com uma lente 33mm toda a escalada. A equipe que subiu levou 4 Go Pro pra documentar com mais facilidade a escalada da montanha. Lucas teve problemas com o drone. A altitude impedia do equipamento subir por conta do ar rarefeito. O drone não conseguiu imagens substanciais da ascensão dos escaladores. Poucas imagens foram gravadas. Apenas do inicio da subida. Eu, Ari, o Carneiro e mais 2 nativos nos posicionamos no morrote, e durante essa subida aconteceu algo inesperado. Eu tropecei numa pedra e num reflexo inexplicável dei um mortal virando meu corpo pra não cair com o pé esquerdo, e deu certo! Para espanto do Carneiro e do Ari que presenciaram esse momento. É impressionante como os nossos reflexos nos protegem de situações aonde somos pegos de surpresa. Não me machuquei. E continuamos nosso trabalho de comunicação com a nossa equipe na montanha. Até ali tudo certo! Mas aproximadamente às 11h as nuvens começaram a surgir e perdemos contato com eles. Ficou um silêncio ensurdecedor quando decidimos descer para o acampamento pois começava a chover. Foi angustiante! Não tivemos notícias durante 16h. Não sabíamos o que estava acontecendo com os companheiros que estavam atacando o cume.
 
+# Vídeo 6
+
+{{< gallery >}}
+  <img src="56.webp" class="grid-w33" />
+  <img src="57.webp" class="grid-w33" />
+  <img src="58.webp" class="grid-w33" />
+  <img src="59.webp" class="grid-w33" />
+{{< /gallery >}}
+
+
 Entramos no décimo dia. Estávamos muito preocupados com a falta de notícias, e somente às 4h da manhã do dia seguinte,a equipe chegou no acampamento são e salvos. Eles chegaram no cume debaixo de neve, vento, chuva e muito frio, numa escalada dificílima. O importante foi ver que todos estávamos vivos! Mais uma vitória da equipe do Planeta Extremo numa aventura muito arriscada. Mas… agora teríamos que sair dali. Nosso pensamento agora estava em sair dali o mais rápido possível. Rapidamente desmontamos acampamento e começamos a descer na direção da mina, no mesmo dia, para encontrar com a comitiva do governo da Papua e voltar pra casa. As paisagens ainda eram impressionantes, até chegar próximo a mina.
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/b23be13d-c854-4d72-bf55-7775b3429a8c/GOPR0146.JPG)
+![](60.png "Pepê jijon, Marlus Werneck e o repórter Clayton Conservani no topo da Oceania. A Pirâmide Carstenz!")
 
-Pepê jijon, Marlus Werneck e o repórter Clayton Conservani no topo da Oceania. A Pirâmide Carstenz!
+{{< gallery >}}
+  <img src="61.webp" class="grid-w33" />
+  <img src="62.webp" class="grid-w33" />
+  <img src="63.webp" class="grid-w33" />
+  <img src="64.webp" class="grid-w33" />
+{{< /gallery >}}
 
 O fim da nossa jornada estava próximo! Encontramos a comitiva do governo da Papua. Tudo estava combinado e orientamos o Ari a gravar "chapa 13", o que significa em linguagem televisiva, não gravar! Apenas simular uma gravação fake com a câmera em punho. Tudo estava dando certo! E depois das apresentações e "gravações", inclusive sonoras, embarcamos no ônibus! E pasmem! Vimos os policiais indonésios contando e dividindo o dinheiro dentro do ônibus! Tentamos gravar mas achamos que seria mais seguro não fazer isso. Apenas tiramos fotos pra tentar registrar esse momento de alguma maneira mas não conseguimos. Enfim, estávamos voltando pra casa!
 
+{{< gallery >}}
+  <img src="65.webp" class="grid-w33" />
+  <img src="66.webp" class="grid-w33" />
+  <img src="67.webp" class="grid-w33" />
+  <img src="68.webp" class="grid-w33" />
+{{< /gallery >}}
+
 A regra era, NÃO GRAVAR NADA DURANTE O TRAJETO DENTRO DA MINA, para não levantar suspeitas! Pelo menos não estávamos saindo algemados. Mas nossas mentes viram a devastação que uma mina daquele porte causa ao meio ambiente. Tudo era tão grande que percorremos durante 3h a mina de ouro. Uma destruição de chorar! Caminhões gigantes! Tratores que nunca havia visto na minha vida detonando montanhas! Está explicado porque eles não permitem que estranhos documentem aquela destruição. A Papua Nova Guiné é uma colônia da Indonésia e a permissividade que vimos é assunto interno dos habitantes da Papua que veem com muitos protestos a atuação devastadora dessa mineradora! Mas agora seria hora de comemorar. Chegamos no hotel e queríamos apenas dormir e descansar nossos corpos e nossas mentes por tudo que passamos. Muito interessante que nesse momento bate uma saudade estranha de tudo que passamos. Foram momentos de sofrimento e desespero, e que só faz sentido quando estamos VIVOS! Vamoooooooooooo! E logicamente os dedos dos nossos pés podem contar essa aventura de uma forma mais realista.
 
-![](https://images.squarespace-cdn.com/content/v1/5d5ea5a27c35a60001dcedae/814b09e8-6c4c-4a44-a45d-e0bda623505d/IMG_9440.JPG)
 
-Da esquerda para a direita. Pepe Jijon, Claudio de Moraes, Clayton Conservani, Marlus Wernek, Ari Junior, Claudio Carneiro e Lucas Munhoz.
+{{< gallery >}}
+  <img src="69.webp" class="grid-w33" />
+  <img src="70.webp" class="grid-w33" />
+  <img src="71.webp" class="grid-w33" />
+  <img src="72.webp" class="grid-w33" />
+  <img src="73.webp" class="grid-w33" />
+  <img src="74.webp" class="grid-w33" />
+{{< /gallery >}}
 
-Esse post é em homenagem ao irmão ARI JUNIOR, O NOSSO MAGO DAS IMAGENS, que morreu tragicamente no acidente aéreo com o time da Chapecoense, em 29/11/2016.
+![](75.png "Da esquerda para a direita. Pepe Jijon, Claudio de Moraes, Clayton Conservani, Marlus Wernek, Ari Junior, Claudio Carneiro e Lucas Munhoz.")
+
+<i>Esse post é em homenagem ao irmão ARI JUNIOR, O NOSSO MAGO DAS IMAGENS, que morreu tragicamente no acidente aéreo com o time da Chapecoense, em 29/11/2016.</i>
