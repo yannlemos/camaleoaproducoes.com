@@ -48,4 +48,4 @@ Mas o pior estava por vir! Tínhamos que ver e estar presentes no sacrifício! O
 
 Já era tarde e a fome apertou. Terminamos de fazer o reconhecimento e subimos para o platô para comer e todos os caçadores estavam nos esperando para o banquete regado a ensopado de bode. Preparado ali naquele mesmo platô. Posso garantir que o bode estava gostoso pra cacete. Comi 2 pratos. Já a Carol e o Igor se limitaram a se alimentar de arroz e vegetai. E o bode? Não sobrou nada! Agora só nos restava o dia seguinte pra gravarmos o ápice da produção e voltarmos finalmente pra casa. A ansiedade só aumentava. A digestão foi feita subindo a escadaria de aproximadamente 2km até o lodge! No próximo episódio conto como foi o nosso encontro com as abelhas do Nepal! Foi tenso mano!
 
-![](8.png "Abelhas!.")
+![](8.png "Abelhas!")

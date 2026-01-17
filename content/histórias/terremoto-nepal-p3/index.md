@@ -1,6 +1,6 @@
 ---
 title: "Terremoto no Nepal - Parte 3"
-date: 2022-01-25
+date: 2020-01-25
 ---
 ![](1.png "Desabrigados em Katmandu.")
 
@@ -20,6 +20,6 @@ Pasmem! Sete segundo depois de fazermos todas as entradas ao vivo, o gerador des
 
 Durante 6 dias fizemos uma cobertura, no mínimo espetacular! Mostramos para todo o Brasil as mazelas de um terremoto, in locco! Levamos para esse campo de “batalha”, as experiências de cada um, na participação de grandes eventos pela Tv Globo, realizando um trabalho inimaginável e incansável. Tentamos o possível e alcançamos o impossível diante de vários obstáculos. Todos nos sentimos muito felizes com o desfecho do trabalho. Missão dada, é missão cumprida! Ganhamos no ano seguinte o prêmio interno da Tv Globo como a reportagem internacional mais importante do JN daquele ano.
 
-![](3.png "Nosso Prêmio Globo de Jornalismo e Esporte 2015.")
+![](3.png "Nosso Prêmio Globo de Jornalismo e Esporte 2015.") 
 
 Não! Ainda não acabou! Não era o fim! Tínhamos um destino inicial. Nossos planos eram outros, lembram? Os Caçadores de mel do Nepal. Depois de tudo que aconteceu nos deparamos com um problema interno. Voltar ou não voltar para o Brasil? Eis a questão! Conto depois como foi a nossa decisão de voltar ou não. Decidimos no voto! Na democracia! Quem viu, viu! Quem não viu saberá o que aconteceu nessa votação.

@@ -14,13 +14,14 @@ Estávamos hospedados há 3 dias no melhor hotel de Katmandu, no Nepal, e nos pr
 
 Tudo pronto pra partir e alguém avisa:”...quando o Makoto entrar no ônibus vamos cantar parabéns. É o aniversário de 50 anos do nosso mestre”. Vejam no vídeo como foi essa recepção.
 
-# Vídeo 1
+{{< youtubeLite id="RvI_bZQVqnI" label="Blowfish-tools demo" >}}
+
 
 Fomos para o ônibus alegres e radiantes por mais essa missão. Nosso trabalho era mais divertido que qualquer outro. O trabalho era consequência e ainda nos pagavam pra isso! Sim, não se espantem. Nossa equipe era tão sintonizada que bastava um olhar para sabermos o que estava acontecendo. Tamanha era a confiança no grupo. As vezes ficava preocupado com os excessos e como mais velho da equipe, de vez em quando, tinha que aparar as arestas, principalmente com o "Anão", mas era muito divertido. Tudo pronto pra partir e alguém avisa:”...quando o Makoto entrar no ônibus vamos cantar parabéns. É o aniversário de 50 anos do nosso mestre”. Quando Makoto entrou no ônibus fizemos uma festa danada. Nesse momento eram aproximadamente 10h e nem imaginávamos o que estava para acontecer.
 
 Já tínhamos rodado na mini-estrada sinuosa (a rodovia principal do Nepal), por 1 hora quando resolvemos parar para tomar um chá, e alguns guias, fumarem o melhor haxixe do Nepal. Ficamos nesse “bar” por uns 20min e seguimos novamente pela estrada cercada de montanhas. Na metade do percurso lembro que de repente comecei a observar uma ventania impressionante pela janela do ônibus em movimento. Foi tudo muito rápido! Vi pessoas correndo na estrada e alguém gritou no ônibus. “As  abelhas!”. Eu pensei comigo por dentro: ”Caralho, que abelha pica é essa? Estamos a uns 100km de distância e elas já estão atacando aqui?”. É a “tragicomédia”. Custa a cair a ficha tentando em não acreditar no que está acontecendo. Foi quando pedimos para o piloto parar o veículo e percebemos que o micro-ônibus balançava de um lado para outro como se fosse de papel. Percebemos nesse instante que estávamos no meio de um terremoto! E pior, no epicentro do fenômeno. Ele aconteceu exatamente naquela região, aonde estávamos. Decidimos rapidamente descer e daí em diante trabalhamos por quase 4 dias, sem um descanso normal. Nosso cotidiano dali em diante mudou rápido! O foco e o objetivo passaram a ser outros. Estávamos diante de uma tragédia, in locco, do outro lado do mundo.. Descemos rapidamente e alguém alertou durante a descida! "Caraca! Um pé de maconha na beira da estrada? Caralho a estrada toda?” Não sabia se ria ou se chorava afinal, estar no lugar errado e na hora errada e ainda dar de cara com uma imensidão de CANNABIS SATIVA parecia papo de louco. Só para esclarecer, no Nepal, é muito comum ver muitas dessas plantas. Em qualquer lugar. Até no centro de Katmandu é possível encontrá-las, mas ninguém se deu conta desse detalhe na hora do perrengue.
 
-# Vídeo 2
+{{< youtubeLite id="pOLwni8ac4o" label="Blowfish-tools demo" >}}
 
 Cada um saiu para um lado com uma câmera na mão, de qualquer modelo ou marca. No Planeta Extremo sempre falei com os companheiros que era necessário ter uma câmera com cada um da equipe. E isso foi benéfico em muitas ocasiões. Uma metodologia de trabalho simples. Quanto mais imagens gravadas, melhor ficará o produto final! A imagem diz tudo mas um texto sem imagem não tem a emoção e a força para mostrar a realidade dos fatos. Todos andávamos com microcâmeras para qualquer eventualidade e a hora tinha chegado para gravar a vontade! Com muita dinâmica nos distribuímos por todo o ambiente de tragédia que estava acontecendo ao nosso redor. Víamos as paredes das montanhas que cercavam a estrada pedras gigantes rolando pelos penhascos deixando um rastro de poeira. Emocionalmente é uma tortura da natureza sobre a nossa mente e corpo. Você sente um terremoto violento e não sabe quando o outro virá mas você tem plena consciência de que ele virá, cedo ou tarde! Foda! Tensão constante. E o Brasil? Nossos parentes e amigos? Mulher, filhos, pais, avós? Um turbilhão de imagens de pessoas que você ama e conhece começa borbulhar no cérebro ao mesmo tempo. Não podia demonstrar medo a minha equipe.
 
@@ -41,6 +42,6 @@ Depois desse primeiro susto paramos para almoçar e para nossa surpresa tinha ap
 
 ![](6.png "Carol encontra mais um carro danificado com ferimentos leves.")
 
-![](7.png "Carol com a máscara em Katmandu.")
+![](7.webp "Carol com a máscara em Katmandu.")
 
 Conto depois o que aconteceu depois desse susto inacreditável! Custou a cair a ficha! Afinal, papai do céu nos sinalizou in locco o que significava a palavra Planeta Extremo!

@@ -33,7 +33,13 @@ Foi difícil chegar nos 5.364m do acampamento base da maior Montanha do planeta 
   <img src="17.webp" class="grid-w33" />
 {{< /gallery >}}
 
-# Vídeo
+{{< video
+    src="v1.mp4"
+    poster=""
+    caption=""
+    loop=false
+    muted=false
+>}}
 
 No segundo dia partimos do Marco zero do nível do mar. Acordamos cedo e logo conhecemos o líder da tribo Lani. Um sujeito enorme com uma fala grosseira e escolhendo os homens e mulheres que iriam até o acampamento base. Houve uma discussão mas vence o mais forte. Granus, era o chefe e ponto final. Começamos a subida e atravessamos uma floresta densa e cheia de obstáculos. Uma subida lenta e difícil com árvores caídas atrapalhando a caminhada. Não existia trilha, apenas o rumo, a direção. Mas chegamos com tranquilidade ao 1º acampamento. Aí começava o drama dessa jornada. Logo uma chuva torrencial caiu com uma tempestade absurda. A noite foi horrível. No terceiro dia acordamos molhados e com os nativos querendo abandonar a jornada. Pra eles a tempestade era um péssimo presságio. O acampamento deles foi totalmente destruído pela ventania e quase não dormiram. Com a gente não foi diferente. Perdemos umas 2h até que o vento e a chuva pararam. Foi um alívio. Achamos que tudo iria acabar ali. Sinceramente, deu uma vontade danada de voltar pra casa. Novamente vieram perguntas na mente me motivando a desistir. Mas começamos a brincar e partimos para outro acampamento. A trilha ficou mais “tranquila”, com paisagens belíssimas! Parecia que estávamos num mundo jurássico. Samambaias gigantes! Formações rochosas que nunca tinha visto. Mas um problema maior estava surgindo no meu corpo. Devido ao desgaste físico até ali senti que meu joelho esquerdo começava a inchar. Estava pra começar um drama inesquecível na minha vida. 
 
@@ -80,8 +86,20 @@ Já estávamos numa altitude de aproximadamente 2 mil metros. NÃO EXISTE ESTRAD
 
 Incrível o poder da batata doce! Mas o quarto dia de caminhada foi o mais puxado. Eram planícies intermináveis e com muita água no solo encharcado. Já estava caminhando há 10 h e meu joelho esquerdo já estava uma bola quando cheguei para o Clayton e disse que minhas pernas não me obedeciam mais. Percebi que se não chegássemos ao acampamento logo, pois estava anoitecendo, eu não iria aguentar e teríamos que dormir ali mesmo. Pepê me respondeu que não era possível porque senão poderíamos morrer de hipotermia pois o frio a noite era intenso. Pra piorar percebemos que os nativos se perderam na trilha. Foi a pior sensação da vida. Dores, perdidos e uma sensação de impotência enormes! O Carneiro teve a ideia de fazer uma grande fogueira para que o alemão e os outros que foram a frente pudessem nos ver. Foi a salvação porque eu já não aguentava mais caminhar depois de 13h na trilha. Foi nesse momento que o GRANUS me deu um "passe", pronunciado no dialeto LANI, e não sei se fez diferença, mas sei que o pior seria carregar 100kg por 2 quilômetros até a nosso próximo acampamento. Eu sentia tremores pelo corpo, respirava com dificuldade devido ao cansaço e parar quando estávamos perdidos fez com que o mínimo de resistência fosse embora. Todos estávamos cansados, exaustos.
 
-# Vídeo 2
-# Vídeo 3
+{{< video
+    src="v2.mp4"
+    poster=""
+    caption=""
+    loop=false
+    muted=false
+>}}
+{{< video
+    src="v3.mp4"
+    poster=""
+    caption=""
+    loop=false
+    muted=false
+>}}
 
 {{< gallery >}}
   <img src="37.webp" class="grid-w33" />
@@ -106,8 +124,20 @@ Quinto dia de caminhada! Finalmente, depois do telefonema ficamos aliviados com 
 
 ![](43.png "Nosso acampamento no quinto dia de trilha.")
 
-# Vídeo 4
-# Vídeo 5
+{{< video
+    src="v4.mp4"
+    poster=""
+    caption=""
+    loop=false
+    muted=false
+>}}
+{{< video
+    src="v5.mp4"
+    poster=""
+    caption=""
+    loop=false
+    muted=false
+>}}
 
 Acho que foi a minha melhor noite de sono. E isso ficou claro quando decidimos tomar café da manhã com os nossos guias. Foi uma manhã divina. Ali fizemos uma aliança que ficou em nossas memórias par o resto de nossas vidas. Eles cantaram pra gente cantigas dos ancestrais, muito antigas. Foi épico! Eu ficaria ali o dia inteiro ouvindo e gravando eles cantarem. Foi emocionante pra todos nós. mas era o nosso quinto dia de caminhada e não podíamos perder tempo. O foco principal era a escalada do Clayton, do Marlus e do Pepê, além claro, da propina de 15 mil dólares que a essa altura ja deveria estar na conta do nosso guia alemão.
 
@@ -148,7 +178,13 @@ O oitavo dia foi reservado para mais um descanso da equipe que iria escalar. Def
 
 Nono dia! Agora é tudo ou nada! A primeira equipe saiu às 4h da madrugada, ainda noite. Clayton, Pepe, Marlus Werneck e o Lucas, deixaram o acampamento no horário previsto. A segunda equipe sairia às 6h para o morrote ao lado da pirâmide pra gravar com uma lente 33mm toda a escalada. A equipe que subiu levou 4 Go Pro pra documentar com mais facilidade a escalada da montanha. Lucas teve problemas com o drone. A altitude impedia do equipamento subir por conta do ar rarefeito. O drone não conseguiu imagens substanciais da ascensão dos escaladores. Poucas imagens foram gravadas. Apenas do inicio da subida. Eu, Ari, o Carneiro e mais 2 nativos nos posicionamos no morrote, e durante essa subida aconteceu algo inesperado. Eu tropecei numa pedra e num reflexo inexplicável dei um mortal virando meu corpo pra não cair com o pé esquerdo, e deu certo! Para espanto do Carneiro e do Ari que presenciaram esse momento. É impressionante como os nossos reflexos nos protegem de situações aonde somos pegos de surpresa. Não me machuquei. E continuamos nosso trabalho de comunicação com a nossa equipe na montanha. Até ali tudo certo! Mas aproximadamente às 11h as nuvens começaram a surgir e perdemos contato com eles. Ficou um silêncio ensurdecedor quando decidimos descer para o acampamento pois começava a chover. Foi angustiante! Não tivemos notícias durante 16h. Não sabíamos o que estava acontecendo com os companheiros que estavam atacando o cume.
 
-# Vídeo 6
+{{< video
+    src="v6.mp4"
+    poster=""
+    caption=""
+    loop=false
+    muted=false
+>}}
 
 {{< gallery >}}
   <img src="56.webp" class="grid-w33" />
@@ -179,7 +215,6 @@ O fim da nossa jornada estava próximo! Encontramos a comitiva do governo da Pap
 {{< /gallery >}}
 
 A regra era, NÃO GRAVAR NADA DURANTE O TRAJETO DENTRO DA MINA, para não levantar suspeitas! Pelo menos não estávamos saindo algemados. Mas nossas mentes viram a devastação que uma mina daquele porte causa ao meio ambiente. Tudo era tão grande que percorremos durante 3h a mina de ouro. Uma destruição de chorar! Caminhões gigantes! Tratores que nunca havia visto na minha vida detonando montanhas! Está explicado porque eles não permitem que estranhos documentem aquela destruição. A Papua Nova Guiné é uma colônia da Indonésia e a permissividade que vimos é assunto interno dos habitantes da Papua que veem com muitos protestos a atuação devastadora dessa mineradora! Mas agora seria hora de comemorar. Chegamos no hotel e queríamos apenas dormir e descansar nossos corpos e nossas mentes por tudo que passamos. Muito interessante que nesse momento bate uma saudade estranha de tudo que passamos. Foram momentos de sofrimento e desespero, e que só faz sentido quando estamos VIVOS! Vamoooooooooooo! E logicamente os dedos dos nossos pés podem contar essa aventura de uma forma mais realista.
-
 
 {{< gallery >}}
   <img src="69.webp" class="grid-w33" />

@@ -2,9 +2,10 @@
 title: "Os Caçadores de Mel do Nepal - Parte 2"
 date: 2019-11-22
 ---
+![](1.webp "")
+
 {{< gallery >}}
-  <img src="1.webp" class="grid-w33" />
-  <img src="2.webp" class="grid-w33" />
+  <img src="2.webp" class="grid-w60" />
   <img src="3.webp" class="grid-w33" />
 {{< /gallery >}}
 
@@ -32,7 +33,7 @@ Não é fácil passar por essa experiência. As abelhas não deram trégua enqua
 
 Missão cumprida! Mestre Makoto não desceu. Começou a sentir fisgadas nos linfonodos (Os **linfonodos** ou também gânglios linfáticos são pequenos órgãos perfurados por canais que existem em diversos pontos da rede linfática, uma rede de dutos que faz parte do sistema linfático. Atuam na defesa do organismo humano e produzem anticorpos), e subiu de volta, pois se utilizasse a escadaria, faria com que o o processo alérgico aumentasse devido ao esforço físico, e aí as consequências poderiam ser graves. Pequenos detalhes que fazem a diferença numa aventura. Muito perigoso para quem não tem conhecimento e experiência. Quando chegamos no topo ele já tinha tomado mais 2 comprimidos de corticóides(500mg), para amenizar o processo alérgico.
 
-![](15.webp "Equipe na retaguarda.")
+![](15.webp "")
 
 {{< gallery >}}
   <img src="16.webp" class="grid-w33" />
@@ -42,7 +43,7 @@ Missão cumprida! Mestre Makoto não desceu. Começou a sentir fisgadas nos linf
 
 Foi o fim de um ciclo que marcou nossas vidas e que jamais será esquecido. Dias de sofrimento, medo, angústia e uma saudade da normalidade absurda. Quando você está envolvido nesse turbilhão de emoções os acontecimentos mais simples te deixam felizes. Como é bom um copo de água geladinho! Um banho quente ou o simples cantar de um pássaro te faz feliz. E foi assim que tudo terminou no Nepal. Todos estávamos felizes! Os caçadores de mel também por terem feito a coleta do mel e pelos equipamentos que deixamos pra trás. No dia seguinte o tempo mudou , estava nublado mas queríamos comemorar mais uma etapa vencida, e os nepaleses nos deram uma carne pra fazermos churrasco. No Planeta Extremo era um ritual fazermos churrasco em todas as produções, e aqui não seria diferente. E qual foi a carne que nos deram? Isso mesmo, de bode! Nunca na minha vida assei uma carne tão ruim! Parecia pedra depois de assada mas mesmo assim estávamos felizes por mais essa conquista. Estávamos todos vivos! Na foto abaixo dava pra sentir a felicidade estampada em nossos rostos afinal estávamos voltando pra casa. Fomos agraciados com uma apresentação de dança e todos fomos abençoados com a "TIKA", pequeno pontinho vermelho na testa. A felicidade foi geral!!!
 
-![](18.webp "Comemoração!")
+![](18.webp "")
 
 {{< gallery >}}
   <img src="19.webp" class="grid-w33" />
@@ -53,13 +54,12 @@ Já em Katmandu, na nossa última noite no Nepal, reservamos o melhor restaurant
 
 Como estava previsto retornamos para o Brasil na classe executiva da EMIRATES e a nossa chegada foi emocionante! Todos os nossos familiares estavam nos aguardando no saguão do aeroporto com a faixa “FAMÍLIA EXTREMA". impossível não encher os olhos de lágrimas agora escrevendo esse texto com essa lembrança. Foi um doce momento. Era hora de receber o carinho que tanto sonhávamos dos nossos familiares. Nossa! Como é bom ser amado!
 
-![](21.webp "De volta pra casa!!!")
+![](21.webp)
 
 {{< gallery >}}
-  <img src="22.webp" class="grid-w33" />
+  <img src="22.webp" class="grid-w75" />
   <img src="23.webp" class="grid-w33" />
   <img src="24.webp" class="grid-w33" />
-  <img src="25.webp" class="grid-w33" />
 {{< /gallery >}}
 
 O que mudou em nossas vidas? Tudo! Pelo menos pra mim foi uma lição de vida que jamais poderia imaginar que fosse acontecer. Estar vivo e saudável é uma dádiva riquíssima! Tive a certeza que para ser feliz não é preciso muito. O dinheiro, a riqueza e os bens materiais não são a parte mais importante do ser humano. Olhar o sol, sentir o cheiro do mar e olhar um céu estrelado, são suficientes para alimentar a alma, porque o ser humano mais rico é aquele que tem fé e amor pra dar e receber, e para isso basta estar vivo. Só tenho a agradecer a Deus e aos meus companheiros por me fortalecerem nos momentos mais críticos. Sim, a vida é o maior bem que o ser humano pode ter. Precisávamos estar no Nepal, do outro lado do mundo, presenciar um terremoto fortíssimo que deixou milhares de mortos, para entendermos o quanto esse planeta é extremo! Obrigado meu Pai por estar aqui escrevendo essas palavras!
