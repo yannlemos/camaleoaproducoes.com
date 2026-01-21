@@ -13,13 +13,13 @@
 [[main]]
  name = "Promoções"
  pre = "tag"
- pageRef = "promoções"
+ pageRef = "promocoes"
  weight = 1
 
 [[main]]
  name = "Histórias"
  pre = "image"
- pageRef = "histórias"
+ pageRef = "historias"
  weight = 2
 
 [[main]]

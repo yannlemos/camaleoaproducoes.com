@@ -9,97 +9,97 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/</loc>
+    <loc>//localhost:1313/historias/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/everest/</loc>
+    <loc>//localhost:1313/historias/everest/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/zona-de-impacto/</loc>
+    <loc>//localhost:1313/historias/zona-de-impacto/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/rio-zambeze/</loc>
+    <loc>//localhost:1313/historias/rio-zambeze/</loc>
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/pir%C3%A2mide-carstenz/</loc>
+    <loc>//localhost:1313/historias/piramide-carstenz/</loc>
     <lastmod>2024-03-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p3/</loc>
+    <loc>//localhost:1313/historias/terremoto-nepal-p3/</loc>
     <lastmod>2020-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/ca%C3%A7adores-de-mel-nepal-p2/</loc>
+    <loc>//localhost:1313/historias/cacadores-de-mel-nepal-p2/</loc>
     <lastmod>2019-11-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/ca%C3%A7adores-de-mel-nepal-p1/</loc>
+    <loc>//localhost:1313/historias/cacadores-de-mel-nepal-p1/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p2/</loc>
+    <loc>//localhost:1313/historias/terremoto-nepal-p2/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/terremoto-nepal-p1/</loc>
+    <loc>//localhost:1313/historias/terremoto-nepal-p1/</loc>
     <lastmod>2019-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/as-explos%C3%B5es/</loc>
+    <loc>//localhost:1313/historias/as-explosoes/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/na-linha-da-morte/</loc>
+    <loc>//localhost:1313/historias/na-linha-da-morte/</loc>
     <lastmod>2019-09-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/puro-amor/</loc>
+    <loc>//localhost:1313/historias/puro-amor/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/hezbollah-p3/</loc>
+    <loc>//localhost:1313/historias/hezbollah-p3/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/hezbollah-p2/</loc>
+    <loc>//localhost:1313/historias/hezbollah-p2/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/hist%C3%B3rias/hezbollah-p1/</loc>
+    <loc>//localhost:1313/historias/hezbollah-p1/</loc>
     <lastmod>2016-11-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -115,7 +115,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/promo%C3%A7%C3%B5es/</loc>
+    <loc>//localhost:1313/promocoes/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
