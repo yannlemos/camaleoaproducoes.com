@@ -1,6 +1,7 @@
 ---
 title: "As Explosões"
 date: 2019-09-25
+draft: true
 ---
 ![](1.png "A tripulação do Challenger.")
 

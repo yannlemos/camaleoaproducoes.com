@@ -16,11 +16,11 @@
  pageRef = "promocoes"
  weight = 1
 
-[[main]]
- name = "Histórias"
- pre = "image"
- pageRef = "historias"
- weight = 2
+# [[main]]
+#  name = "Histórias"
+#  pre = "image"
+#  pageRef = "historias"
+#  weight = 2
 
 [[main]]
  name = "Passaporte"

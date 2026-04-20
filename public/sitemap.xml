@@ -9,12 +9,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/historias/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/historias/everest/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -65,18 +59,6 @@
   <url>
     <loc>//localhost:1313/historias/terremoto-nepal-p1/</loc>
     <lastmod>2019-10-27T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/historias/as-explosoes/</loc>
-    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/historias/na-linha-da-morte/</loc>
-    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

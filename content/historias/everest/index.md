@@ -12,14 +12,14 @@ Ah! O Everest! Faria tudo novamente! Desde adolescente ouvia histórias do Himal
 {{< gallery >}}
   <img src="2.webp" class="grid-w33" />
   <img src="3.webp" class="grid-w33" />
-  <img src="4.jpg" class="grid-w33" caption="aa" />
+  <!-- <img src="4.jpg" class="grid-w33" caption="aa" /> -->
 {{< /gallery >}}
 
 Minha aventura pelas trilhas do Nepal foi em 2008. Realizei meu sonho de chegar até o acampamento base, mas não foi fácil. Foi dolorido e penoso subir e descer montanhas de formações monumentais. Uma catedral deslumbrante das montanhas do Himalaia até chegar aos pés da “MONTE SAGARMATHA”, em nepalês, e “CHOMOLUNGMA”, na língua tibetana. O acampamento base fica a 5.364m de altitude feita de 12 a 20 dias pelas trilhas, logicamente dependendo da disposição de cada um. Quem me levou foi meu amigo e irmão de muitas aventuras jornalísticas, Clayton Conservani e 1 guia nepalês, Rham.
 
 A viagem saindo do RIO é longa, com escala em Amsterdã, e de lá para Katmandu, capital do Nepal. São aproximadamente 24h de viagem. O aeroporto de Katmandu tem uma estrutura precária e a minha primeira impressão foi de uma desorganização absurda. Mas parecia uma feira do que um aeroporto. Pegamos nossas bagagens e partimos para o nosso hotel, no bairro do Tamel, aonde a maioria dos turistas se hospedam. Essa região é a Babilônia do Nepal. É onde se encontram escaladores e trilheiros do mundo todo. O comércio durante o dia é frenético e nos primeiros três dias dedicamos as compras. Eu não tinha equipamento adequado para chegar até o acampamento base, e quando falamos em compras, a disposição aumenta. Lá tem todo o tipo de mercadoria que vocês podem imaginar, desde o haxixe até as roupas de montanha mais sofisticadas das grandes marcas como A NORTH FACE e MARMOT. Logicamente que fomos nas lojas nepalesas porque eram as mais baratas. Eram das marcas “NORTH FAKE”. Isso mesmo, todas de fabricação chinesa e muito idêntica as originais. E olha que tenho até hoje essas roupas. São de boa qualidade e serviram ao propósito. Gastamos quase US$ 1.500,00 (mil e quinhentos dólares), em roupas e equipamentos. O Clayton já tinha vindo algumas vezes para o Nepal e quase não precisou de equipamentos. Ele já tinha quase tudo. Apenas uma observação importante! Lembro que essa produção foi uma parceria entre o SPORTV e a TV GLOBO. Nesse ano eu era o editor-chefe do Zona de Impacto e o Clayton era repórter do Esporte Espetacular, com isso o orçamento da produção ficou mais barata para ambos os departamentos. Eu já tinha tentado ir com o Clayton para o Everest quando era produtor no Esporte Espetacular. Foi quando ele tentou chegar ao cume, mas não conseguiu. Faltou pouco pra ele chegar lá. O nosso diretor de Esportes, Luís Fernando Lima, achou arriscado eu ir com o Clayton nessa época. Hoje acredito que foi a decisão acertada. Tudo tem seu tempo! Não saberia dizer por quais motivos, mas agora eu estava lá, no Nepal, e nada agora impediria de chegar ao acampamento base, mas não tinha a menor ideia do que estava por vir. Estávamos ali para cobrir jornalisticamente a escalada dos brasileiros RODRIGO RAINERI e o cirurgião plástico EDUARDO KEPKE, que tentariam escalar pela primeira vez a montanha. O Rodrigo tinha o objetivo de escalar sem o auxílio de oxigênio! Poucos conseguiram chegar lá sem cilindros de oxigênio. Todos os anos, centenas de montanhistas de todas as partes do planeta se deslocam para o Himalaia em busca do sonho de chegar ao cume. No entanto menos de 5% desses alpinistas conseguem realizar o feito de escalar e descer sem o auxílio de oxigênio. O único brasileiro a conseguir esse feito foi Vítor Negrete, mas morreu na descida, na zona da morte! Ele está enterrado no C3, na face Norte do Everest. Vejam essa estatística de brasileiros que se arriscaram na montanha mais alta da Terra, com 8.849m de altitude.  
 
-![Alt text](5.jpg "Fila surreal pra chegar ao topo do Everest em 2023")
+<!-- ![Alt text](5.jpg "Fila surreal pra chegar ao topo do Everest em 2023") -->
 
 <i>Fonte: [Extremos](https://extremos.com.br/)</i>
 
@@ -42,16 +42,15 @@ Nossa logística estava baseada no uso do kit correspondente com a utilização 
 
 Acordamos cedo e partimos para o aeroporto de Katmandu com nossos equipamentos e o nosso guia. Fizemos o check in e embarcamos para LUKLA, o ponto de partida para a caminhada de 60km até o acampamento base, e para minha surpresa era um monomotor muito parecido com os aviões da primeira guerra mundial. Ao entrar na aeronave e me acomodar a aeromoça me forneceu algodões! Eu fiquei pensando para que serviriam aqueles chumaços de algodão? Quando o piloto deu a partida deu pra entender a finalidade. Era um barulho ensurdecedor! A aeronave não era pressurizada e todos os barulhos do motor, do vento, eram perceptíveis. Era pra ser um alívio o pouso em LUKLA, mas a pista só tem 300m e tem um aclive considerável que serve para aliviar a velocidade no pouso. Esse aeroporto é considerado um dos mais perigosos do mundo! A cidade de Lukla fica a 2.860m de altitude.
 
-![](11.webp "Aeroporto de Lukla, o mais perigoso do Planeta")
+<!-- ![](11.webp "Aeroporto de Lukla, o mais perigoso do Planeta") -->
 
 Depois dessa “aventura aérea”, já começamos a nossa caminhada rumo ao acampamento base. Eu levava uma mochila com aproximadamente 15 KG. O primeiro dia foi lindo! Caminhamos por planícies lindíssimas com flores e Yakes em campos esverdeados. Foi um trecho curto aonde paramos para pernoitar no primeiro “lodge”, que são hospedagens bem simples que abrigam os alpinistas e aventureiros ao longo das trilhas. A luz ainda era acessível e o banho quente apenas com água fervida, que era servida em baldes pelo proprietário do lodge.
 
 ![](12.webp "Nosso primeiro pernoite")
 
-
 Primeiro e segundo dia de caminhada rolou tranquilo, mas a partir da entrada do Parque Nacional de Sagarmatha, que protege uma das áreas mais cobiçadas dos Himalaias, as trilhas com subidas e descidas começaram a ficar mais radicais. Esse parque é rodeado por montanhas acima de 7 mil metros de altitude e a fiscalização do governo nepalês são necessárias por conta do turismo de aventura e alpinismo crescentes. É uma das fontes de renda mais importantes do Nepal. Aonde conquistar a montanha é pano de fundo porque é ela que nos conquista. Uma parede se forma no horizonte que atrai qualquer mortal. É como um imã físico. É o altar dos sacrifícios! Nossa produção pagou US$ 12.000,00 (doze mil dólares), apenas para ter acesso até ao acampamento base, eu e o Clayton. E tem fiscalização. Se as autoridades nepalesas te pegarem fora dos padrões contratados você pode ser preso, pagar uma multa pesada e até mesmo ser extraditado.
 
-![](13.webp "Entrada do Parque dos Himalaias")
+<!-- ![](13.webp "Entrada do Parque dos Himalaias") -->
 
 Ao passar pelo portal, depois de apresentar as credenciais começa a caminhada rumo a NAMCHE BAZAR, a capital do povo SHERPA, que são os locais dos himalaias. A capacidade pulmonar desse povo é superior em 50% a nossa por justamente estarem adaptados totalmente a grandes altitudes, e sem eles é impossível chegar lá, pois são eles que carregam nossos equipamentos até o acampamento base, e no caso dos alpinistas, até o cume. O nepalês KAMI RITA SHERPA escalou 28 vezes o EVEREST!  
 
@@ -65,7 +64,7 @@ A capacidade desse povo é tão impressionante que eu vi durante a subida na tri
 
 Mais fácil? Nunca! Depois desse primeiro desafio começamos uma subida interminável até Namche. Bazar Durante a subida vi uma senhora de uns 70 anos de idade me passar como uma velocidade humilhante carregando um balaio cheio de gravetos nas costas. Na sequência vi um sherpa com dormentes de madeira bruta, nas costas, subindo com desenvoltura, enquanto eu parava constantemente para respirar. Começava ali um sofrimento terrível. Quem viu o filme do SHEREK lembra do burrico perguntando a todo instante:”Já chegamos?” Devo ter feito essa pergunta umas 10 vezes ao Clayton. A subida demorou umas 4h. Quando chegamos na última escada da trilha eu já não conseguia mais ficar em pé. Uma dor muscular brabíssima! Andava me escorando num muro de pedra. Fui carregado até o quarto e dali não sai por umas 24h. Pedi encarecidamente que alguém do lugar arrumasse alguma massagista para as minhas pernas. Estava sentindo muitas dores. A massagista chegou e eu pude relaxar e a parar de sentir cãimbras . Nunca me senti assim na minha vida e estávamos apenas a 3.600m de altitude! Não sai nem pra jantar. Acho que dormi por mais de 14h de tão cansado que estava.
 
-![](20.webp "Namche Bazar, a capital do povo Sherpa")
+<!-- ![](20.webp "Namche Bazar, a capital do povo Sherpa") -->
 
 No dia seguinte acordei com dores pelo corpo inteiro. Sempre joguei bola na minha vida mas nunca senti tantas dores como aquele dia seguinte. Não conseguia me levantar. Mas era preciso me alimentar e hidratar. Na altitude esses 2 elementos são deveres de casa diário e obrigatórios! O alimento serve como um fornecedor de proteínas e carboidratos porque a queima é enorme, por conta do frio e do desgaste físico. O frio começava a apertar! A água serve para que o equilíbrio orgânico seja mantido e também para evitar as dores de cabeça. Nessas condições é necessário tomar pelo menos 4 litros de água diariamente!
 
@@ -83,35 +82,35 @@ Eu, Clayton e Rham, ficamos 4 dias em Namche, que é um povoado simples com pess
 
 {{< gallery >}}
   <img src="23.webp" class="grid-w60" />
-  <img src="24.webp" class="grid-w33" />
+  <!-- <img src="24.webp" class="grid-w33" /> -->
 {{< /gallery >}}
 
-![](25.webp "Nesse pequeno mapa o nosso percurso a pé até o EBC, acampamento base do Everest")
+<!-- ![](25.webp "Nesse pequeno mapa o nosso percurso a pé até o EBC, acampamento base do Everest") -->
 
 Já se passaram 6 dias desde que saímos de Katmandu e na partida passamos novamente pelo EVEREST VIEW, e pude observar novamente o tamanho do meu desafio. No caminho nos deparamos por uma visão bizarra. Um SADU e um “assistente”, pedindo qualquer donativo para a sua causa. É normal nas trilhas do Nepal você encontrar essa figuras exóticas pedindo dinheiro. Eles gostam muito de Haxixe! Demos nosso donativo, algumas rúpias, e seguimos em frente, afinal não queríamos que nenhum mal nos parasse ou impedisse nosso caminho, vai que o SADU tivesse algum poder? kkkkkkkkkkkkk rimos muito e dali em diante o Clayton passou a me chamar de SADU. Essa trilha é um sobe e desce de matar qualquer um. Você desce até 3.250m para atravessar o rio KOSI DUDH e sobe novamente a 3.870m até chegar a TENGBOCHE a 3.870m. Nessa trilha você já consegue ver o AMADA BLAM, LOTSE E O EVEREST. Uma imagem deslumbrante das maiores montanhas do Himalaia. Quando chegamos ao vilarejo eu estava com febre e com as pernas bambas. Nos alojamos num lodge muito simples a luz de velas e o banho…, bem o banho não rolou dessa vez pois estava num estado crítico. Nessa trilha você sente frio, calor, calafrios, tira o casaco, bota o casaco e chega em estado terminal. Nem queria comer mas o Clayton me obrigou senão eu poderia ficar pelo caminho. Forcei a barra comi rapidamente e fui dormir com febre. Nessa noite sonhei como nunca antes na minha vida. Dormi pesado e o Clayton disse que ronquei como um bom gerador! Misteriosamente ali ocorreu uma mudança radical no meu organismo. Comecei a sentir que meu corpo estava se adaptando aquela realidade. Acordei, tomei leite de Yaki e um arroz mechido com ovo, e que estava delicioso. Fomos conhecer e gravar o mosteiro budista de TENGBOCHE, que foi construído em 1923, e foi destruído por um terremoto em 1934, e reconstruído posteriormente. A importância desse mosteiro é que todos os alpinistas que passam por ali vão consultar os monges se a montanha o aceita ou não para a escalada. Se o monge negar é porque será muito perigosa a escalada e eles aconselham a não ir. Se o monge liberar é porque a escalada será tranquila. Cada um segue o caminho que achar melhor. Como não iríamos escalar seguimos caminho. Pedimos autorização para gravá-los mas não nos permitiram fazer imagens.
 
 ![](26.webp "Eu muito abatido no templo de Tengboche")
 
-![](27.webp "Templo budista em Tengboche")
+<!-- ![](27.webp "Templo budista em Tengboche") -->
 
 Pra cima e avante! Passamos mais uma noite em Tengboche e sentia que estava mais forte e apto pra seguir adiante. Estava mais confiante! Mas tudo tem sua cota de sacrifício. Minha chegada a PERICHE, próximo destino, foi sofrida. Tivemos que ficar 2 dias pra me recuperar. Ficamos num lodge mais confortável pra recuperar as energias. É um vale entre montanhas exuberantes e lá está um memorial em homenagem aos alpinistas que morreram ao tentar escalar o EVEREST. O nome de Vitor Negrete está lá cravado no metal pra posteridade. O lugar é pequeno e muito simples. Um rio formado pelas águas descongeladas das montanhas cortam a paisagem bucólica. Já estávamos no oitavo dia de caminhada e essa parada foi estratégica para chegar ao objetivo maior, o acampamento base!
 
 {{< gallery >}}
-  <img src="28.webp" class="grid-w33" />
-  <img src="29.webp" class="grid-w33" />
-  <img src="30.webp" class="grid-w33" />
+  <!-- <img src="28.webp" class="grid-w33" /> -->
+  <!-- <img src="29.webp" class="grid-w33" /> -->
+  <!-- <img src="30.webp" class="grid-w33" /> -->
   <img src="31.webp" class="grid-w33" />
   <img src="32.webp" class="grid-w33" />
-  <img src="33.webp" class="grid-w33" />
+  <!-- <img src="33.webp" class="grid-w33" /> -->
   <img src="34.webp" class="grid-w33" />
   <img src="35.webp" class="grid-w33" />
   <img src="36.webp" class="grid-w33" />
-  <img src="37.webp" class="grid-w33" />
+  <!-- <img src="37.webp" class="grid-w33" /> -->
 {{< /gallery >}}
 
 Partimos de Periche bem cedinho e vimos um amanhecer de tirar o fôlego, e quando deixamos a planície veio uma subida íngrime que nuca acabava. Foi muito dolorosa essa subida. Parei várias vezes pra recuperar o fôlego. Já estávamos a mais de 4 mil metros de altitude e o oxigênio cada vez mais escasso. Até que chegamos ao local mais sagrado dessa trilha. Nos deparamos com diversos totens (pilhas de pedra), como lápides, contendo nomes, fotos, datas, mensagens deixadas por parentes, amigos e pessoas queridas, de reconhecimento e votos de descanso. Muito triste e envolvente estar em meio àqueles monumentos em homenagem aos mortos que sucumbiram durante a escalada. Um lugar localizado a aproximadamente 4.600m de altitude.
 
-![](38.webp "Homenagem aos mortos no Everest")
+<!-- ![](38.webp "Homenagem aos mortos no Everest") -->
 
 O frio já começava a apertar e aceleramos o passo pra chegar a LOBUCHE, que é o penúltimo ponto antes do acampamento base. Chegamos a um lodge mais movimentado e mais sujo. Nada ali é confortável. Gente estranha entrando e saindo a todo momento. Não via a hora de chegar logo ao acampamento base. pernoitamos ali para na manhã seguinte irmos a Gorek Shep, a última parada antes de chegar ao nosso objetivo, “O MEU EVEREST"! O acampamento base.
 
@@ -157,7 +156,7 @@ Mas a nossa missão era gerar conteúdo para o Brasil, dos brasileiros e de tudo
 
 Tudo corria dentro da normalidade. Rodrigo e Edu iriam atacar o cume em 2 dias mas o transformador do gerador queimou! Isso faltando poucos dias para o fim do nosso trabalho. Sem cargas nas baterias, não teríamos câmeras, fotos, edições e nem ligações para os familiares. Mais um “EVEREST” em nosso caminho! Estar ali e não conseguir registrar o feito dos brasileiros, depois de tudo que a gente fez, seria como entrar num pesadelo e não acordar mais! Levar esse fracasso para o Brasil seria patético! Tentamos arrumar emprestado algum transformador reserva de alguma agência por ali, nada! Tentamos consertar, nada! Eis que um sherpa deu uma ideia de tentar arrumar uma peça com um amigo em Lobuche! Seria um dia de ida e outro de volta. Não tínhamos outra alternativa. Rodrigo e o Edu adiaram por mais um dia a ida ao cume. E a temporada já estava chegando ao fim. Algumas agências já estavam partindo do acampamento junto com as conquistas. Enfim, nos restou aguardar a chegada do sherpa. Foi grande a preocupação e frustração com o que estava acontecendo!
 
-![](51.png "Dia de preocupação dentro da barraca. Não havia o que fazer sem baterias e tínhamos que guardar o que tínhamos até ali de carga.")
+<!-- ![](51.png "Dia de preocupação dentro da barraca. Não havia o que fazer sem baterias e tínhamos que guardar o que tínhamos até ali de carga.") -->
 
 Na manhã seguinte ainda tínhamos carga nas baterias da câmera e o Clayton me acordou assustado:"Claudinho acorda! rápido! Vem aqui ver um negócio estranho!". Acordei rápido! Peguei a câmera e fui até aonde ele estava. Quando cheguei não acreditei no que estava vendo! Lebram do lago perto do hospital? Ele já não existia mais! A água sumiu na totalidade do dia para a noite! A água escoou como se tivessem retirado a tampa de um ralo. Isso nos mostra como ali tudo está em movimento. Foi sinistro ver aquilo. Numa madrugada e bum! A água sumiu!
 
@@ -168,8 +167,8 @@ Dia seguinte o Sherpa chegou com 2 transformadores feitos com caixas de papelão
 Eles sairam às 4h da manhã do dia seguinte e a partir dai ficamos sem comunicação por 2 dias. Uma preocupação constante nos abalava. Agora era o EVEREST a vencer, literalmente. O tempo colaborou bastante. Poucas nuvens, céu limpo no dia 27/05/2008, Rodrigo e Edu chegaram ao topo do Everest pela primeira vez! Levaram 17h pra chegar lá. Recebemos a ligação do Rodrigo que nos deu a notícia e logo enviamos a mensagem para o Brasil. Dia seguinte a tarde os recebemos com muita alegria na base do Kumbu Ice Fall. A pior parte de uma produção de alto risco é vencer a morte! Quando tudo acaba bem é uma sensação maravilhosa!!!!
 
 {{< gallery >}}
-  <img src="52.png" class="grid-w33" />
-  <img src="53.webp" class="grid-w33" />
+  <img src="52.png" class="grid-w50" />
+  <img src="53.webp" class="grid-w50" />
 {{< /gallery >}}
 
 ![](54.webp "Eduardo Kepke e Rodrigo Raineri no topo do mundo!")
@@ -198,7 +197,7 @@ Primeira providência na chegada a Namche Bazar era falar com a família. Intern
 Chegamos em Katmandu, e no dia seguinte já começamos a produzir o Globo Repórter. Andando pelo centro histórico da cidade jamais imaginaria que um dos maiores terremotos do Nepal colocaria abaixo muitos dos monumentos que estavam em pé e que mataria aproximadamente 10 mil nepaleses e turistas oito anos depois, em outra produção com o Planeta Extremo. Não dá pra falar das trilhas do Nepal sem falar da sua história. Temos que mostrar a resiliência desse povo e do respeito que tem pelas montanhas. Por mais pobres e humildes que sejam os nepaleses, eles são receptivos a qualquer povo do planeta. Você pode andar pelas ruas do Nepal sem medo. katmandu é uma favela a céu aberto mas o que não falta a esse povo é dignidade e amor próprio.
 
 {{< gallery >}}
-  <img src="59.webp" class="grid-w33" />
+  <!-- <img src="59.webp" class="grid-w33" /> -->
   <img src="60.webp" class="grid-w33" />
   <img src="61.webp" class="grid-w33" />
   <img src="62.webp" class="grid-w33" />

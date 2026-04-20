@@ -1,6 +1,7 @@
 ---
 title: "Na Linha Da Morte"
 date: 2019-09-25
+draft: true
 ---
 Janeiro de 1987 foi marcante na minha carreira. Já estava há 3 anos na Tv Globo como editor de imagens, e nesse momento da minha vida profissional estava entusiasmado com o rumo que seguia. Eu era o editor de imagens e finalizador na área internacional do Jornal Nacional junto com a jornalista Cristina Pinheiro quando essa bomba caiu no meu colo. Tínhamos um deadline(linha da morte), para finalizar as edições para que a operação de exibição do JN não corresse nenhum risco. Se a matéria não estivesse pronta até o deadline, a matéria não seria exibido. Nessa época todas as edições eram feitas num vídeo cassete U-matic. Não tinha a velocidade das plataformas de edição de hoje. E era seguido a risca pelos coordenadores.
 

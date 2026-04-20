@@ -102,26 +102,6 @@
     </item>
     
     <item>
-      <title>As Explosões</title>
-      <link>//localhost:1313/historias/as-explosoes/</link>
-      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
-      <guid>//localhost:1313/historias/as-explosoes/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/historias/as-explosoes/featured.webp" />
-    </item>
-    
-    <item>
-      <title>Na Linha Da Morte</title>
-      <link>//localhost:1313/historias/na-linha-da-morte/</link>
-      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <author>claudio@camaleoaproducoes.com (Claudio de Moraes)</author>
-      <guid>//localhost:1313/historias/na-linha-da-morte/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/historias/na-linha-da-morte/featured.jpg" />
-    </item>
-    
-    <item>
       <title>Puro Amor!</title>
       <link>//localhost:1313/historias/puro-amor/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>

@@ -4,6 +4,7 @@ description: "Guide to Chart.js usage in Blowfish"
 summary: "Blowfish includes Chart.js for powerful charts and data visualisations."
 orderByWeight: "true"
 showAuthor: true
+draft: true
 ---
 {{< lead >}}
 Momentos inesquecíveis em viagens e produções são experiências que vão além da observação, tornando-se memórias que ficam com a gente para sempre. 
